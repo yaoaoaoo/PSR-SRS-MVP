@@ -29,7 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/owner/psr-srs-mvp"  # placeholder — update before release
+Repository = "https://github.com/yaoaoaoo/PSR-SRS-MVP"  # placeholder — update before release
+Documentation = "https://github.com/yaoaoaoo/PSR-SRS-MVP/tree/main/docs"
+Issues = "https://github.com/yaoaoaoo/PSR-SRS-MVP/issues"
 
 [project.optional-dependencies]
 dev = [
