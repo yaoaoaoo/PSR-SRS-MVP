@@ -1,0 +1,14 @@
+{
+  "k1": 1.5,
+  "b": 0.75,
+  "top_k_values": [5, 10, 20],
+  "relevance_threshold": 1,
+  "field_weights": {
+    "title": 3,
+    "description": 1,
+    "category": 2,
+    "subcategory": 2,
+    "brand": 2
+  },
+  "use_stopwords": true
+}

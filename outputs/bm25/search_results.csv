@@ -1,0 +1,2161 @@
+query_id,query_text,rank,item_id,bm25_score,relevance_grade
+query_000001,NeonFit women's dresses review,1,item_000063,12.659110,2
+query_000001,NeonFit women's dresses review,2,item_000080,12.659110,2
+query_000001,NeonFit women's dresses review,3,item_000099,12.659110,2
+query_000001,NeonFit women's dresses review,4,item_000107,12.659110,2
+query_000001,NeonFit women's dresses review,5,item_000149,12.659110,2
+query_000001,NeonFit women's dresses review,6,item_000206,12.659110,2
+query_000001,NeonFit women's dresses review,7,item_000225,12.659110,2
+query_000001,NeonFit women's dresses review,8,item_000250,12.659110,2
+query_000001,NeonFit women's dresses review,9,item_000254,12.659110,2
+query_000001,NeonFit women's dresses review,10,item_000263,12.659110,2
+query_000001,NeonFit women's dresses review,11,item_000281,12.659110,2
+query_000001,NeonFit women's dresses review,12,item_000292,12.659110,2
+query_000001,NeonFit women's dresses review,13,item_000326,12.659110,2
+query_000001,NeonFit women's dresses review,14,item_000330,12.659110,2
+query_000001,NeonFit women's dresses review,15,item_000378,12.659110,2
+query_000001,NeonFit women's dresses review,16,item_000388,12.659110,2
+query_000001,NeonFit women's dresses review,17,item_000396,12.659110,2
+query_000001,NeonFit women's dresses review,18,item_000412,12.659110,2
+query_000001,NeonFit women's dresses review,19,item_000433,12.659110,2
+query_000001,NeonFit women's dresses review,20,item_000467,12.659110,2
+query_000002,best smartphones,1,item_000020,4.036109,2
+query_000002,best smartphones,2,item_000102,4.036109,2
+query_000002,best smartphones,3,item_000112,4.036109,2
+query_000002,best smartphones,4,item_000209,4.036109,2
+query_000002,best smartphones,5,item_000212,4.036109,2
+query_000002,best smartphones,6,item_000223,4.036109,2
+query_000002,best smartphones,7,item_000275,4.036109,2
+query_000002,best smartphones,8,item_000299,4.036109,2
+query_000002,best smartphones,9,item_000310,4.036109,2
+query_000002,best smartphones,10,item_000323,4.036109,2
+query_000002,best smartphones,11,item_000334,4.036109,2
+query_000002,best smartphones,12,item_000343,4.036109,2
+query_000002,best smartphones,13,item_000344,4.036109,2
+query_000002,best smartphones,14,item_000346,4.036109,2
+query_000002,best smartphones,15,item_000352,4.036109,2
+query_000002,best smartphones,16,item_000355,4.036109,2
+query_000002,best smartphones,17,item_000360,4.036109,2
+query_000002,best smartphones,18,item_000362,4.036109,2
+query_000002,best smartphones,19,item_000373,4.036109,2
+query_000002,best smartphones,20,item_000385,4.036109,2
+query_000004,BrainBoost Outdoor Toys,1,item_000028,8.175453,3
+query_000004,BrainBoost Outdoor Toys,2,item_000120,8.175453,3
+query_000004,BrainBoost Outdoor Toys,3,item_000141,8.175453,3
+query_000004,BrainBoost Outdoor Toys,4,item_000163,8.175453,3
+query_000004,BrainBoost Outdoor Toys,5,item_000285,8.175453,3
+query_000004,BrainBoost Outdoor Toys,6,item_000315,8.175453,3
+query_000004,BrainBoost Outdoor Toys,7,item_000390,8.175453,3
+query_000004,BrainBoost Outdoor Toys,8,item_000427,8.175453,3
+query_000004,BrainBoost Outdoor Toys,9,item_000448,8.175453,3
+query_000004,BrainBoost Outdoor Toys,10,item_000454,8.175453,3
+query_000004,BrainBoost Outdoor Toys,11,item_000021,8.120285,3
+query_000004,BrainBoost Outdoor Toys,12,item_000059,8.120285,3
+query_000004,BrainBoost Outdoor Toys,13,item_000124,8.120285,3
+query_000004,BrainBoost Outdoor Toys,14,item_000222,8.120285,3
+query_000004,BrainBoost Outdoor Toys,15,item_000227,8.120285,3
+query_000004,BrainBoost Outdoor Toys,16,item_000245,8.120285,3
+query_000004,BrainBoost Outdoor Toys,17,item_000248,8.120285,3
+query_000004,BrainBoost Outdoor Toys,18,item_000300,8.120285,3
+query_000004,BrainBoost Outdoor Toys,19,item_000370,8.120285,3
+query_000004,BrainBoost Outdoor Toys,20,item_000392,8.120285,3
+query_000005,affordable cameras for everyday use,1,item_000005,5.657967,1
+query_000005,affordable cameras for everyday use,2,item_000487,5.657967,0
+query_000005,affordable cameras for everyday use,3,item_000065,5.528050,0
+query_000005,affordable cameras for everyday use,4,item_000405,5.528050,0
+query_000005,affordable cameras for everyday use,5,item_000304,5.286780,0
+query_000005,affordable cameras for everyday use,6,item_000029,5.174494,0
+query_000005,affordable cameras for everyday use,7,item_000318,5.174494,0
+query_000005,affordable cameras for everyday use,8,item_000082,4.964643,0
+query_000005,affordable cameras for everyday use,9,item_000177,4.964643,0
+query_000005,affordable cameras for everyday use,10,item_000361,4.964643,0
+query_000005,affordable cameras for everyday use,11,item_000102,4.359151,1
+query_000005,affordable cameras for everyday use,12,item_000117,4.359151,0
+query_000005,affordable cameras for everyday use,13,item_000217,4.359151,0
+query_000005,affordable cameras for everyday use,14,item_000228,4.359151,0
+query_000005,affordable cameras for everyday use,15,item_000299,4.359151,1
+query_000005,affordable cameras for everyday use,16,item_000310,4.359151,1
+query_000005,affordable cameras for everyday use,17,item_000344,4.359151,1
+query_000005,affordable cameras for everyday use,18,item_000121,4.325944,0
+query_000005,affordable cameras for everyday use,19,item_000337,4.325944,1
+query_000005,affordable cameras for everyday use,20,item_000015,4.229293,2
+query_000006,PureBloom skincare review,1,item_000006,4.765976,2
+query_000006,PureBloom skincare review,2,item_000098,4.765976,2
+query_000006,PureBloom skincare review,3,item_000123,4.765976,2
+query_000006,PureBloom skincare review,4,item_000144,4.765976,2
+query_000006,PureBloom skincare review,5,item_000160,4.765976,2
+query_000006,PureBloom skincare review,6,item_000182,4.765976,2
+query_000006,PureBloom skincare review,7,item_000218,4.765976,2
+query_000006,PureBloom skincare review,8,item_000226,4.765976,2
+query_000006,PureBloom skincare review,9,item_000236,4.765976,2
+query_000006,PureBloom skincare review,10,item_000273,4.765976,2
+query_000006,PureBloom skincare review,11,item_000279,4.765976,2
+query_000006,PureBloom skincare review,12,item_000293,4.765976,2
+query_000006,PureBloom skincare review,13,item_000305,4.765976,2
+query_000006,PureBloom skincare review,14,item_000333,4.765976,2
+query_000006,PureBloom skincare review,15,item_000443,4.765976,2
+query_000006,PureBloom skincare review,16,item_000485,4.765976,2
+query_000006,PureBloom skincare review,17,item_000497,4.765976,2
+query_000006,PureBloom skincare review,18,item_000500,4.765976,2
+query_000006,PureBloom skincare review,19,item_000009,4.698380,2
+query_000006,PureBloom skincare review,20,item_000173,4.698380,2
+query_000008,BrainBoost Puzzles,1,item_000029,4.512491,2
+query_000008,BrainBoost Puzzles,2,item_000032,4.512491,2
+query_000008,BrainBoost Puzzles,3,item_000034,4.512491,2
+query_000008,BrainBoost Puzzles,4,item_000044,4.512491,2
+query_000008,BrainBoost Puzzles,5,item_000054,4.512491,2
+query_000008,BrainBoost Puzzles,6,item_000074,4.512491,2
+query_000008,BrainBoost Puzzles,7,item_000091,4.512491,2
+query_000008,BrainBoost Puzzles,8,item_000106,4.512491,2
+query_000008,BrainBoost Puzzles,9,item_000108,4.512491,2
+query_000008,BrainBoost Puzzles,10,item_000115,4.512491,2
+query_000008,BrainBoost Puzzles,11,item_000142,4.512491,2
+query_000008,BrainBoost Puzzles,12,item_000145,4.512491,2
+query_000008,BrainBoost Puzzles,13,item_000249,4.512491,2
+query_000008,BrainBoost Puzzles,14,item_000302,4.512491,2
+query_000008,BrainBoost Puzzles,15,item_000311,4.512491,2
+query_000008,BrainBoost Puzzles,16,item_000318,4.512491,2
+query_000008,BrainBoost Puzzles,17,item_000350,4.512491,2
+query_000008,BrainBoost Puzzles,18,item_000365,4.512491,2
+query_000008,BrainBoost Puzzles,19,item_000374,4.512491,2
+query_000008,BrainBoost Puzzles,20,item_000375,4.512491,2
+query_000009,DriveSafe Oils & Fluids,1,item_000011,13.044223,3
+query_000009,DriveSafe Oils & Fluids,2,item_000071,13.044223,3
+query_000009,DriveSafe Oils & Fluids,3,item_000128,13.044223,3
+query_000009,DriveSafe Oils & Fluids,4,item_000143,13.044223,3
+query_000009,DriveSafe Oils & Fluids,5,item_000171,13.044223,3
+query_000009,DriveSafe Oils & Fluids,6,item_000178,13.044223,3
+query_000009,DriveSafe Oils & Fluids,7,item_000184,13.044223,3
+query_000009,DriveSafe Oils & Fluids,8,item_000186,13.044223,3
+query_000009,DriveSafe Oils & Fluids,9,item_000192,13.044223,3
+query_000009,DriveSafe Oils & Fluids,10,item_000268,13.044223,3
+query_000009,DriveSafe Oils & Fluids,11,item_000278,13.044223,3
+query_000009,DriveSafe Oils & Fluids,12,item_000288,13.044223,3
+query_000009,DriveSafe Oils & Fluids,13,item_000296,13.044223,3
+query_000009,DriveSafe Oils & Fluids,14,item_000342,13.044223,3
+query_000009,DriveSafe Oils & Fluids,15,item_000348,13.044223,3
+query_000009,DriveSafe Oils & Fluids,16,item_000363,13.044223,3
+query_000009,DriveSafe Oils & Fluids,17,item_000406,13.044223,3
+query_000009,DriveSafe Oils & Fluids,18,item_000444,13.044223,3
+query_000009,DriveSafe Oils & Fluids,19,item_000477,13.044223,3
+query_000009,DriveSafe Oils & Fluids,20,item_000489,13.044223,3
+query_000010,affordable tires for everyday use,1,item_000005,5.657967,2
+query_000010,affordable tires for everyday use,2,item_000487,5.657967,0
+query_000010,affordable tires for everyday use,3,item_000065,5.528050,0
+query_000010,affordable tires for everyday use,4,item_000405,5.528050,0
+query_000010,affordable tires for everyday use,5,item_000304,5.286780,1
+query_000010,affordable tires for everyday use,6,item_000029,5.174494,0
+query_000010,affordable tires for everyday use,7,item_000318,5.174494,0
+query_000010,affordable tires for everyday use,8,item_000082,4.964643,0
+query_000010,affordable tires for everyday use,9,item_000177,4.964643,0
+query_000010,affordable tires for everyday use,10,item_000361,4.964643,0
+query_000010,affordable tires for everyday use,11,item_000102,4.359151,0
+query_000010,affordable tires for everyday use,12,item_000117,4.359151,0
+query_000010,affordable tires for everyday use,13,item_000217,4.359151,0
+query_000010,affordable tires for everyday use,14,item_000228,4.359151,0
+query_000010,affordable tires for everyday use,15,item_000299,4.359151,0
+query_000010,affordable tires for everyday use,16,item_000310,4.359151,0
+query_000010,affordable tires for everyday use,17,item_000344,4.359151,0
+query_000010,affordable tires for everyday use,18,item_000121,4.325944,0
+query_000010,affordable tires for everyday use,19,item_000337,4.325944,0
+query_000010,affordable tires for everyday use,20,item_000015,4.229293,0
+query_000011,affordable oils & fluids for everyday use,1,item_000304,13.632623,3
+query_000011,affordable oils & fluids for everyday use,2,item_000354,11.932479,3
+query_000011,affordable oils & fluids for everyday use,3,item_000409,11.932479,3
+query_000011,affordable oils & fluids for everyday use,4,item_000488,11.932479,3
+query_000011,affordable oils & fluids for everyday use,5,item_000039,9.847592,3
+query_000011,affordable oils & fluids for everyday use,6,item_000132,9.847592,3
+query_000011,affordable oils & fluids for everyday use,7,item_000307,9.847592,3
+query_000011,affordable oils & fluids for everyday use,8,item_000339,9.847592,3
+query_000011,affordable oils & fluids for everyday use,9,item_000452,9.847592,3
+query_000011,affordable oils & fluids for everyday use,10,item_000011,8.483412,3
+query_000011,affordable oils & fluids for everyday use,11,item_000071,8.483412,3
+query_000011,affordable oils & fluids for everyday use,12,item_000128,8.483412,3
+query_000011,affordable oils & fluids for everyday use,13,item_000143,8.483412,3
+query_000011,affordable oils & fluids for everyday use,14,item_000171,8.483412,3
+query_000011,affordable oils & fluids for everyday use,15,item_000178,8.483412,3
+query_000011,affordable oils & fluids for everyday use,16,item_000184,8.483412,3
+query_000011,affordable oils & fluids for everyday use,17,item_000186,8.483412,3
+query_000011,affordable oils & fluids for everyday use,18,item_000192,8.483412,3
+query_000011,affordable oils & fluids for everyday use,19,item_000268,8.483412,3
+query_000011,affordable oils & fluids for everyday use,20,item_000278,8.483412,3
+query_000013,ChefElite furniture review,1,item_000048,4.686266,2
+query_000013,ChefElite furniture review,2,item_000061,4.686266,2
+query_000013,ChefElite furniture review,3,item_000067,4.686266,2
+query_000013,ChefElite furniture review,4,item_000069,4.686266,2
+query_000013,ChefElite furniture review,5,item_000105,4.686266,2
+query_000013,ChefElite furniture review,6,item_000151,4.686266,2
+query_000013,ChefElite furniture review,7,item_000207,4.686266,2
+query_000013,ChefElite furniture review,8,item_000221,4.686266,2
+query_000013,ChefElite furniture review,9,item_000232,4.686266,2
+query_000013,ChefElite furniture review,10,item_000270,4.686266,2
+query_000013,ChefElite furniture review,11,item_000329,4.686266,2
+query_000013,ChefElite furniture review,12,item_000349,4.686266,2
+query_000013,ChefElite furniture review,13,item_000371,4.686266,2
+query_000013,ChefElite furniture review,14,item_000397,4.686266,2
+query_000013,ChefElite furniture review,15,item_000049,4.660626,2
+query_000013,ChefElite furniture review,16,item_000055,4.660626,2
+query_000013,ChefElite furniture review,17,item_000057,4.660626,2
+query_000013,ChefElite furniture review,18,item_000065,4.660626,2
+query_000013,ChefElite furniture review,19,item_000191,4.660626,2
+query_000013,ChefElite furniture review,20,item_000199,4.660626,2
+query_000014,affordable camping gear for everyday use,1,item_000005,5.657967,0
+query_000014,affordable camping gear for everyday use,2,item_000487,5.657967,0
+query_000014,affordable camping gear for everyday use,3,item_000065,5.528050,0
+query_000014,affordable camping gear for everyday use,4,item_000405,5.528050,1
+query_000014,affordable camping gear for everyday use,5,item_000304,5.286780,0
+query_000014,affordable camping gear for everyday use,6,item_000029,5.174494,0
+query_000014,affordable camping gear for everyday use,7,item_000318,5.174494,0
+query_000014,affordable camping gear for everyday use,8,item_000082,4.964643,0
+query_000014,affordable camping gear for everyday use,9,item_000177,4.964643,0
+query_000014,affordable camping gear for everyday use,10,item_000361,4.964643,0
+query_000014,affordable camping gear for everyday use,11,item_000102,4.359151,0
+query_000014,affordable camping gear for everyday use,12,item_000117,4.359151,0
+query_000014,affordable camping gear for everyday use,13,item_000217,4.359151,0
+query_000014,affordable camping gear for everyday use,14,item_000228,4.359151,0
+query_000014,affordable camping gear for everyday use,15,item_000299,4.359151,0
+query_000014,affordable camping gear for everyday use,16,item_000310,4.359151,0
+query_000014,affordable camping gear for everyday use,17,item_000344,4.359151,0
+query_000014,affordable camping gear for everyday use,18,item_000121,4.325944,0
+query_000014,affordable camping gear for everyday use,19,item_000337,4.325944,0
+query_000014,affordable camping gear for everyday use,20,item_000015,4.229293,0
+query_000015,AdventureZone Board Games,1,item_000028,3.686741,2
+query_000015,AdventureZone Board Games,2,item_000120,3.686741,2
+query_000015,AdventureZone Board Games,3,item_000141,3.686741,2
+query_000015,AdventureZone Board Games,4,item_000163,3.686741,2
+query_000015,AdventureZone Board Games,5,item_000285,3.686741,2
+query_000015,AdventureZone Board Games,6,item_000315,3.686741,2
+query_000015,AdventureZone Board Games,7,item_000390,3.686741,2
+query_000015,AdventureZone Board Games,8,item_000427,3.686741,2
+query_000015,AdventureZone Board Games,9,item_000448,3.686741,2
+query_000015,AdventureZone Board Games,10,item_000454,3.686741,2
+query_000015,AdventureZone Board Games,11,item_000021,3.655102,2
+query_000015,AdventureZone Board Games,12,item_000059,3.655102,2
+query_000015,AdventureZone Board Games,13,item_000124,3.655102,2
+query_000015,AdventureZone Board Games,14,item_000222,3.655102,2
+query_000015,AdventureZone Board Games,15,item_000227,3.655102,2
+query_000015,AdventureZone Board Games,16,item_000245,3.655102,2
+query_000015,AdventureZone Board Games,17,item_000248,3.655102,2
+query_000015,AdventureZone Board Games,18,item_000300,3.655102,2
+query_000015,AdventureZone Board Games,19,item_000370,3.655102,2
+query_000015,AdventureZone Board Games,20,item_000392,3.655102,2
+query_000018,best spices,1,item_000015,3.888706,2
+query_000018,best spices,2,item_000025,3.888706,2
+query_000018,best spices,3,item_000026,3.888706,2
+query_000018,best spices,4,item_000040,3.888706,2
+query_000018,best spices,5,item_000089,3.888706,2
+query_000018,best spices,6,item_000126,3.888706,2
+query_000018,best spices,7,item_000133,3.888706,2
+query_000018,best spices,8,item_000138,3.888706,2
+query_000018,best spices,9,item_000176,3.888706,2
+query_000018,best spices,10,item_000187,3.888706,2
+query_000018,best spices,11,item_000195,3.888706,2
+query_000018,best spices,12,item_000204,3.888706,2
+query_000018,best spices,13,item_000230,3.888706,2
+query_000018,best spices,14,item_000335,3.888706,2
+query_000018,best spices,15,item_000391,3.888706,2
+query_000018,best spices,16,item_000399,3.888706,2
+query_000018,best spices,17,item_000463,3.888706,2
+query_000018,best spices,18,item_000013,3.853523,2
+query_000018,best spices,19,item_000066,3.853523,2
+query_000018,best spices,20,item_000092,3.853523,2
+query_000019,best skincare,1,item_000006,4.765976,2
+query_000019,best skincare,2,item_000098,4.765976,2
+query_000019,best skincare,3,item_000123,4.765976,2
+query_000019,best skincare,4,item_000144,4.765976,2
+query_000019,best skincare,5,item_000160,4.765976,2
+query_000019,best skincare,6,item_000182,4.765976,2
+query_000019,best skincare,7,item_000218,4.765976,2
+query_000019,best skincare,8,item_000226,4.765976,2
+query_000019,best skincare,9,item_000236,4.765976,2
+query_000019,best skincare,10,item_000273,4.765976,2
+query_000019,best skincare,11,item_000279,4.765976,2
+query_000019,best skincare,12,item_000293,4.765976,2
+query_000019,best skincare,13,item_000305,4.765976,2
+query_000019,best skincare,14,item_000333,4.765976,2
+query_000019,best skincare,15,item_000443,4.765976,2
+query_000019,best skincare,16,item_000485,4.765976,2
+query_000019,best skincare,17,item_000497,4.765976,2
+query_000019,best skincare,18,item_000500,4.765976,2
+query_000019,best skincare,19,item_000009,4.698380,3
+query_000019,best skincare,20,item_000173,4.698380,3
+query_000020,affordable puzzles for everyday use,1,item_000005,5.657967,0
+query_000020,affordable puzzles for everyday use,2,item_000487,5.657967,0
+query_000020,affordable puzzles for everyday use,3,item_000065,5.528050,0
+query_000020,affordable puzzles for everyday use,4,item_000405,5.528050,0
+query_000020,affordable puzzles for everyday use,5,item_000304,5.286780,0
+query_000020,affordable puzzles for everyday use,6,item_000029,5.174494,1
+query_000020,affordable puzzles for everyday use,7,item_000318,5.174494,1
+query_000020,affordable puzzles for everyday use,8,item_000082,4.964643,0
+query_000020,affordable puzzles for everyday use,9,item_000177,4.964643,0
+query_000020,affordable puzzles for everyday use,10,item_000361,4.964643,0
+query_000020,affordable puzzles for everyday use,11,item_000102,4.359151,0
+query_000020,affordable puzzles for everyday use,12,item_000117,4.359151,0
+query_000020,affordable puzzles for everyday use,13,item_000217,4.359151,0
+query_000020,affordable puzzles for everyday use,14,item_000228,4.359151,0
+query_000020,affordable puzzles for everyday use,15,item_000299,4.359151,0
+query_000020,affordable puzzles for everyday use,16,item_000310,4.359151,0
+query_000020,affordable puzzles for everyday use,17,item_000344,4.359151,0
+query_000020,affordable puzzles for everyday use,18,item_000121,4.325944,0
+query_000020,affordable puzzles for everyday use,19,item_000337,4.325944,0
+query_000020,affordable puzzles for everyday use,20,item_000015,4.229293,0
+query_000022,affordable activewear for everyday use,1,item_000005,5.657967,2
+query_000022,affordable activewear for everyday use,2,item_000487,5.657967,0
+query_000022,affordable activewear for everyday use,3,item_000065,5.528050,0
+query_000022,affordable activewear for everyday use,4,item_000405,5.528050,0
+query_000022,affordable activewear for everyday use,5,item_000304,5.286780,0
+query_000022,affordable activewear for everyday use,6,item_000029,5.174494,0
+query_000022,affordable activewear for everyday use,7,item_000318,5.174494,0
+query_000022,affordable activewear for everyday use,8,item_000082,4.964643,1
+query_000022,affordable activewear for everyday use,9,item_000177,4.964643,1
+query_000022,affordable activewear for everyday use,10,item_000361,4.964643,1
+query_000022,affordable activewear for everyday use,11,item_000102,4.359151,0
+query_000022,affordable activewear for everyday use,12,item_000117,4.359151,0
+query_000022,affordable activewear for everyday use,13,item_000217,4.359151,0
+query_000022,affordable activewear for everyday use,14,item_000228,4.359151,0
+query_000022,affordable activewear for everyday use,15,item_000299,4.359151,0
+query_000022,affordable activewear for everyday use,16,item_000310,4.359151,0
+query_000022,affordable activewear for everyday use,17,item_000344,4.359151,0
+query_000022,affordable activewear for everyday use,18,item_000121,4.325944,0
+query_000022,affordable activewear for everyday use,19,item_000337,4.325944,0
+query_000022,affordable activewear for everyday use,20,item_000015,4.229293,0
+query_000024,NovaDigital smartphones review,1,item_000020,4.036109,2
+query_000024,NovaDigital smartphones review,2,item_000102,4.036109,2
+query_000024,NovaDigital smartphones review,3,item_000112,4.036109,2
+query_000024,NovaDigital smartphones review,4,item_000209,4.036109,2
+query_000024,NovaDigital smartphones review,5,item_000212,4.036109,2
+query_000024,NovaDigital smartphones review,6,item_000223,4.036109,2
+query_000024,NovaDigital smartphones review,7,item_000275,4.036109,2
+query_000024,NovaDigital smartphones review,8,item_000299,4.036109,2
+query_000024,NovaDigital smartphones review,9,item_000310,4.036109,2
+query_000024,NovaDigital smartphones review,10,item_000323,4.036109,2
+query_000024,NovaDigital smartphones review,11,item_000334,4.036109,2
+query_000024,NovaDigital smartphones review,12,item_000343,4.036109,2
+query_000024,NovaDigital smartphones review,13,item_000344,4.036109,2
+query_000024,NovaDigital smartphones review,14,item_000346,4.036109,2
+query_000024,NovaDigital smartphones review,15,item_000352,4.036109,2
+query_000024,NovaDigital smartphones review,16,item_000355,4.036109,2
+query_000024,NovaDigital smartphones review,17,item_000360,4.036109,2
+query_000024,NovaDigital smartphones review,18,item_000362,4.036109,2
+query_000024,NovaDigital smartphones review,19,item_000373,4.036109,2
+query_000024,NovaDigital smartphones review,20,item_000385,4.036109,2
+query_000027,best air quality,1,item_000037,7.262323,3
+query_000027,best air quality,2,item_000042,7.262323,3
+query_000027,best air quality,3,item_000078,7.262323,3
+query_000027,best air quality,4,item_000084,7.262323,3
+query_000027,best air quality,5,item_000097,7.262323,3
+query_000027,best air quality,6,item_000119,7.262323,3
+query_000027,best air quality,7,item_000140,7.262323,3
+query_000027,best air quality,8,item_000154,7.262323,3
+query_000027,best air quality,9,item_000164,7.262323,3
+query_000027,best air quality,10,item_000260,7.262323,3
+query_000027,best air quality,11,item_000286,7.262323,3
+query_000027,best air quality,12,item_000298,7.262323,3
+query_000027,best air quality,13,item_000327,7.262323,3
+query_000027,best air quality,14,item_000368,7.262323,3
+query_000027,best air quality,15,item_000376,7.262323,3
+query_000027,best air quality,16,item_000401,7.262323,3
+query_000027,best air quality,17,item_000411,7.262323,3
+query_000027,best air quality,18,item_000423,7.262323,3
+query_000027,best air quality,19,item_000428,7.262323,3
+query_000027,best air quality,20,item_000434,7.262323,3
+query_000038,HomeCraft bedding review,1,item_000048,4.812132,2
+query_000038,HomeCraft bedding review,2,item_000061,4.812132,2
+query_000038,HomeCraft bedding review,3,item_000067,4.812132,2
+query_000038,HomeCraft bedding review,4,item_000069,4.812132,2
+query_000038,HomeCraft bedding review,5,item_000105,4.812132,2
+query_000038,HomeCraft bedding review,6,item_000151,4.812132,2
+query_000038,HomeCraft bedding review,7,item_000207,4.812132,2
+query_000038,HomeCraft bedding review,8,item_000221,4.812132,2
+query_000038,HomeCraft bedding review,9,item_000232,4.812132,2
+query_000038,HomeCraft bedding review,10,item_000270,4.812132,2
+query_000038,HomeCraft bedding review,11,item_000329,4.812132,2
+query_000038,HomeCraft bedding review,12,item_000349,4.812132,2
+query_000038,HomeCraft bedding review,13,item_000371,4.812132,2
+query_000038,HomeCraft bedding review,14,item_000397,4.812132,2
+query_000038,HomeCraft bedding review,15,item_000027,4.765976,2
+query_000038,HomeCraft bedding review,16,item_000047,4.765976,2
+query_000038,HomeCraft bedding review,17,item_000052,4.765976,2
+query_000038,HomeCraft bedding review,18,item_000070,4.765976,2
+query_000038,HomeCraft bedding review,19,item_000111,4.765976,2
+query_000038,HomeCraft bedding review,20,item_000131,4.765976,2
+query_000041,best hair care,1,item_000009,3.785031,2
+query_000041,best hair care,2,item_000051,3.785031,2
+query_000041,best hair care,3,item_000068,3.785031,2
+query_000041,best hair care,4,item_000087,3.785031,2
+query_000041,best hair care,5,item_000148,3.785031,2
+query_000041,best hair care,6,item_000159,3.785031,2
+query_000041,best hair care,7,item_000173,3.785031,2
+query_000041,best hair care,8,item_000193,3.785031,2
+query_000041,best hair care,9,item_000213,3.785031,2
+query_000041,best hair care,10,item_000215,3.785031,2
+query_000041,best hair care,11,item_000234,3.785031,2
+query_000041,best hair care,12,item_000243,3.785031,2
+query_000041,best hair care,13,item_000257,3.785031,2
+query_000041,best hair care,14,item_000290,3.785031,2
+query_000041,best hair care,15,item_000403,3.785031,2
+query_000041,best hair care,16,item_000451,3.785031,2
+query_000041,best hair care,17,item_000476,3.785031,2
+query_000041,best hair care,18,item_000006,3.349270,1
+query_000041,best hair care,19,item_000098,3.349270,1
+query_000041,best hair care,20,item_000123,3.349270,1
+query_000042,PlayWorld board games review,1,item_000028,3.686741,1
+query_000042,PlayWorld board games review,2,item_000120,3.686741,1
+query_000042,PlayWorld board games review,3,item_000141,3.686741,1
+query_000042,PlayWorld board games review,4,item_000163,3.686741,1
+query_000042,PlayWorld board games review,5,item_000285,3.686741,1
+query_000042,PlayWorld board games review,6,item_000315,3.686741,1
+query_000042,PlayWorld board games review,7,item_000390,3.686741,1
+query_000042,PlayWorld board games review,8,item_000427,3.686741,1
+query_000042,PlayWorld board games review,9,item_000448,3.686741,1
+query_000042,PlayWorld board games review,10,item_000454,3.686741,1
+query_000042,PlayWorld board games review,11,item_000021,3.655102,1
+query_000042,PlayWorld board games review,12,item_000059,3.655102,1
+query_000042,PlayWorld board games review,13,item_000124,3.655102,1
+query_000042,PlayWorld board games review,14,item_000222,3.655102,1
+query_000042,PlayWorld board games review,15,item_000227,3.655102,1
+query_000042,PlayWorld board games review,16,item_000245,3.655102,1
+query_000042,PlayWorld board games review,17,item_000248,3.655102,1
+query_000042,PlayWorld board games review,18,item_000300,3.655102,1
+query_000042,PlayWorld board games review,19,item_000370,3.655102,1
+query_000042,PlayWorld board games review,20,item_000392,3.655102,1
+query_000044,BrainBoost Educational,1,item_000029,4.512491,2
+query_000044,BrainBoost Educational,2,item_000032,4.512491,2
+query_000044,BrainBoost Educational,3,item_000034,4.512491,2
+query_000044,BrainBoost Educational,4,item_000044,4.512491,2
+query_000044,BrainBoost Educational,5,item_000054,4.512491,2
+query_000044,BrainBoost Educational,6,item_000074,4.512491,2
+query_000044,BrainBoost Educational,7,item_000091,4.512491,2
+query_000044,BrainBoost Educational,8,item_000106,4.512491,2
+query_000044,BrainBoost Educational,9,item_000108,4.512491,2
+query_000044,BrainBoost Educational,10,item_000115,4.512491,2
+query_000044,BrainBoost Educational,11,item_000142,4.512491,2
+query_000044,BrainBoost Educational,12,item_000145,4.512491,2
+query_000044,BrainBoost Educational,13,item_000249,4.512491,2
+query_000044,BrainBoost Educational,14,item_000302,4.512491,2
+query_000044,BrainBoost Educational,15,item_000311,4.512491,2
+query_000044,BrainBoost Educational,16,item_000318,4.512491,2
+query_000044,BrainBoost Educational,17,item_000350,4.512491,2
+query_000044,BrainBoost Educational,18,item_000365,4.512491,2
+query_000044,BrainBoost Educational,19,item_000374,4.512491,2
+query_000044,BrainBoost Educational,20,item_000375,4.512491,2
+query_000045,affordable women's dresses for everyday use,1,item_000082,17.395783,3
+query_000045,affordable women's dresses for everyday use,2,item_000177,17.395783,3
+query_000045,affordable women's dresses for everyday use,3,item_000361,17.395783,3
+query_000045,affordable women's dresses for everyday use,4,item_000094,16.497166,3
+query_000045,affordable women's dresses for everyday use,5,item_000194,16.497166,3
+query_000045,affordable women's dresses for everyday use,6,item_000202,16.497166,3
+query_000045,affordable women's dresses for everyday use,7,item_000418,16.497166,3
+query_000045,affordable women's dresses for everyday use,8,item_000382,15.829171,3
+query_000045,affordable women's dresses for everyday use,9,item_000400,15.829171,3
+query_000045,affordable women's dresses for everyday use,10,item_000161,13.802356,3
+query_000045,affordable women's dresses for everyday use,11,item_000169,13.802356,3
+query_000045,affordable women's dresses for everyday use,12,item_000291,13.802356,3
+query_000045,affordable women's dresses for everyday use,13,item_000312,13.802356,3
+query_000045,affordable women's dresses for everyday use,14,item_000384,13.802356,3
+query_000045,affordable women's dresses for everyday use,15,item_000413,13.802356,3
+query_000045,affordable women's dresses for everyday use,16,item_000498,13.802356,3
+query_000045,affordable women's dresses for everyday use,17,item_000063,12.659110,2
+query_000045,affordable women's dresses for everyday use,18,item_000080,12.659110,2
+query_000045,affordable women's dresses for everyday use,19,item_000099,12.659110,2
+query_000045,affordable women's dresses for everyday use,20,item_000107,12.659110,2
+query_000048,SilkTouch Skincare,1,item_000006,4.765976,2
+query_000048,SilkTouch Skincare,2,item_000098,4.765976,2
+query_000048,SilkTouch Skincare,3,item_000123,4.765976,2
+query_000048,SilkTouch Skincare,4,item_000144,4.765976,2
+query_000048,SilkTouch Skincare,5,item_000160,4.765976,2
+query_000048,SilkTouch Skincare,6,item_000182,4.765976,2
+query_000048,SilkTouch Skincare,7,item_000218,4.765976,2
+query_000048,SilkTouch Skincare,8,item_000226,4.765976,2
+query_000048,SilkTouch Skincare,9,item_000236,4.765976,2
+query_000048,SilkTouch Skincare,10,item_000273,4.765976,2
+query_000048,SilkTouch Skincare,11,item_000279,4.765976,2
+query_000048,SilkTouch Skincare,12,item_000293,4.765976,2
+query_000048,SilkTouch Skincare,13,item_000305,4.765976,2
+query_000048,SilkTouch Skincare,14,item_000333,4.765976,2
+query_000048,SilkTouch Skincare,15,item_000443,4.765976,2
+query_000048,SilkTouch Skincare,16,item_000485,4.765976,2
+query_000048,SilkTouch Skincare,17,item_000497,4.765976,2
+query_000048,SilkTouch Skincare,18,item_000500,4.765976,2
+query_000048,SilkTouch Skincare,19,item_000009,4.698380,3
+query_000048,SilkTouch Skincare,20,item_000173,4.698380,3
+query_000049,RadianceCo Skincare,1,item_000006,4.765976,2
+query_000049,RadianceCo Skincare,2,item_000098,4.765976,2
+query_000049,RadianceCo Skincare,3,item_000123,4.765976,2
+query_000049,RadianceCo Skincare,4,item_000144,4.765976,2
+query_000049,RadianceCo Skincare,5,item_000160,4.765976,2
+query_000049,RadianceCo Skincare,6,item_000182,4.765976,2
+query_000049,RadianceCo Skincare,7,item_000218,4.765976,2
+query_000049,RadianceCo Skincare,8,item_000226,4.765976,2
+query_000049,RadianceCo Skincare,9,item_000236,4.765976,2
+query_000049,RadianceCo Skincare,10,item_000273,4.765976,2
+query_000049,RadianceCo Skincare,11,item_000279,4.765976,2
+query_000049,RadianceCo Skincare,12,item_000293,4.765976,2
+query_000049,RadianceCo Skincare,13,item_000305,4.765976,2
+query_000049,RadianceCo Skincare,14,item_000333,4.765976,2
+query_000049,RadianceCo Skincare,15,item_000443,4.765976,2
+query_000049,RadianceCo Skincare,16,item_000485,4.765976,2
+query_000049,RadianceCo Skincare,17,item_000497,4.765976,2
+query_000049,RadianceCo Skincare,18,item_000500,4.765976,2
+query_000049,RadianceCo Skincare,19,item_000009,4.698380,3
+query_000049,RadianceCo Skincare,20,item_000173,4.698380,3
+query_000050,affordable headphones for everyday use,1,item_000005,5.657967,1
+query_000050,affordable headphones for everyday use,2,item_000487,5.657967,0
+query_000050,affordable headphones for everyday use,3,item_000065,5.528050,0
+query_000050,affordable headphones for everyday use,4,item_000405,5.528050,0
+query_000050,affordable headphones for everyday use,5,item_000304,5.286780,0
+query_000050,affordable headphones for everyday use,6,item_000029,5.174494,0
+query_000050,affordable headphones for everyday use,7,item_000318,5.174494,0
+query_000050,affordable headphones for everyday use,8,item_000082,4.964643,0
+query_000050,affordable headphones for everyday use,9,item_000177,4.964643,0
+query_000050,affordable headphones for everyday use,10,item_000361,4.964643,0
+query_000050,affordable headphones for everyday use,11,item_000102,4.359151,1
+query_000050,affordable headphones for everyday use,12,item_000117,4.359151,0
+query_000050,affordable headphones for everyday use,13,item_000217,4.359151,0
+query_000050,affordable headphones for everyday use,14,item_000228,4.359151,0
+query_000050,affordable headphones for everyday use,15,item_000299,4.359151,1
+query_000050,affordable headphones for everyday use,16,item_000310,4.359151,1
+query_000050,affordable headphones for everyday use,17,item_000344,4.359151,1
+query_000050,affordable headphones for everyday use,18,item_000121,4.325944,0
+query_000050,affordable headphones for everyday use,19,item_000337,4.325944,1
+query_000050,affordable headphones for everyday use,20,item_000015,4.229293,2
+query_000051,best smartphones,1,item_000020,4.036109,2
+query_000051,best smartphones,2,item_000102,4.036109,2
+query_000051,best smartphones,3,item_000112,4.036109,2
+query_000051,best smartphones,4,item_000209,4.036109,2
+query_000051,best smartphones,5,item_000212,4.036109,2
+query_000051,best smartphones,6,item_000223,4.036109,2
+query_000051,best smartphones,7,item_000275,4.036109,2
+query_000051,best smartphones,8,item_000299,4.036109,2
+query_000051,best smartphones,9,item_000310,4.036109,2
+query_000051,best smartphones,10,item_000323,4.036109,2
+query_000051,best smartphones,11,item_000334,4.036109,2
+query_000051,best smartphones,12,item_000343,4.036109,2
+query_000051,best smartphones,13,item_000344,4.036109,2
+query_000051,best smartphones,14,item_000346,4.036109,2
+query_000051,best smartphones,15,item_000352,4.036109,2
+query_000051,best smartphones,16,item_000355,4.036109,2
+query_000051,best smartphones,17,item_000360,4.036109,2
+query_000051,best smartphones,18,item_000362,4.036109,2
+query_000051,best smartphones,19,item_000373,4.036109,2
+query_000051,best smartphones,20,item_000385,4.036109,2
+query_000052,AtlasBooks Non-Fiction,1,item_000023,4.738402,2
+query_000052,AtlasBooks Non-Fiction,2,item_000043,4.738402,2
+query_000052,AtlasBooks Non-Fiction,3,item_000117,4.738402,2
+query_000052,AtlasBooks Non-Fiction,4,item_000137,4.738402,2
+query_000052,AtlasBooks Non-Fiction,5,item_000155,4.738402,2
+query_000052,AtlasBooks Non-Fiction,6,item_000165,4.738402,2
+query_000052,AtlasBooks Non-Fiction,7,item_000197,4.738402,2
+query_000052,AtlasBooks Non-Fiction,8,item_000201,4.738402,2
+query_000052,AtlasBooks Non-Fiction,9,item_000217,4.738402,2
+query_000052,AtlasBooks Non-Fiction,10,item_000228,4.738402,2
+query_000052,AtlasBooks Non-Fiction,11,item_000251,4.738402,2
+query_000052,AtlasBooks Non-Fiction,12,item_000295,4.738402,2
+query_000052,AtlasBooks Non-Fiction,13,item_000328,4.738402,2
+query_000052,AtlasBooks Non-Fiction,14,item_000341,4.738402,2
+query_000052,AtlasBooks Non-Fiction,15,item_000372,4.738402,2
+query_000052,AtlasBooks Non-Fiction,16,item_000429,4.738402,2
+query_000052,AtlasBooks Non-Fiction,17,item_000447,4.738402,2
+query_000052,AtlasBooks Non-Fiction,18,item_000458,4.738402,2
+query_000052,AtlasBooks Non-Fiction,19,item_000481,4.738402,2
+query_000052,AtlasBooks Non-Fiction,20,item_000004,4.712190,3
+query_000054,affordable spices for everyday use,1,item_000015,8.117999,2
+query_000054,affordable spices for everyday use,2,item_000230,8.117999,2
+query_000054,affordable spices for everyday use,3,item_000462,7.371667,3
+query_000054,affordable spices for everyday use,4,item_000005,5.657967,0
+query_000054,affordable spices for everyday use,5,item_000487,5.657967,0
+query_000054,affordable spices for everyday use,6,item_000065,5.528050,0
+query_000054,affordable spices for everyday use,7,item_000405,5.528050,0
+query_000054,affordable spices for everyday use,8,item_000013,5.404485,2
+query_000054,affordable spices for everyday use,9,item_000066,5.404485,2
+query_000054,affordable spices for everyday use,10,item_000092,5.404485,2
+query_000054,affordable spices for everyday use,11,item_000185,5.404485,2
+query_000054,affordable spices for everyday use,12,item_000237,5.404485,2
+query_000054,affordable spices for everyday use,13,item_000264,5.404485,2
+query_000054,affordable spices for everyday use,14,item_000272,5.404485,2
+query_000054,affordable spices for everyday use,15,item_000274,5.404485,2
+query_000054,affordable spices for everyday use,16,item_000280,5.404485,2
+query_000054,affordable spices for everyday use,17,item_000282,5.404485,2
+query_000054,affordable spices for everyday use,18,item_000301,5.404485,2
+query_000054,affordable spices for everyday use,19,item_000306,5.404485,2
+query_000054,affordable spices for everyday use,20,item_000478,5.404485,2
+query_000056,affordable wearables for everyday use,1,item_000005,5.657967,1
+query_000056,affordable wearables for everyday use,2,item_000487,5.657967,0
+query_000056,affordable wearables for everyday use,3,item_000065,5.528050,0
+query_000056,affordable wearables for everyday use,4,item_000405,5.528050,0
+query_000056,affordable wearables for everyday use,5,item_000304,5.286780,0
+query_000056,affordable wearables for everyday use,6,item_000029,5.174494,0
+query_000056,affordable wearables for everyday use,7,item_000318,5.174494,0
+query_000056,affordable wearables for everyday use,8,item_000082,4.964643,0
+query_000056,affordable wearables for everyday use,9,item_000177,4.964643,0
+query_000056,affordable wearables for everyday use,10,item_000361,4.964643,0
+query_000056,affordable wearables for everyday use,11,item_000102,4.359151,1
+query_000056,affordable wearables for everyday use,12,item_000117,4.359151,0
+query_000056,affordable wearables for everyday use,13,item_000217,4.359151,0
+query_000056,affordable wearables for everyday use,14,item_000228,4.359151,0
+query_000056,affordable wearables for everyday use,15,item_000299,4.359151,1
+query_000056,affordable wearables for everyday use,16,item_000310,4.359151,1
+query_000056,affordable wearables for everyday use,17,item_000344,4.359151,1
+query_000056,affordable wearables for everyday use,18,item_000121,4.325944,0
+query_000056,affordable wearables for everyday use,19,item_000337,4.325944,1
+query_000056,affordable wearables for everyday use,20,item_000015,4.229293,2
+query_000057,affordable cameras for everyday use,1,item_000005,5.657967,1
+query_000057,affordable cameras for everyday use,2,item_000487,5.657967,0
+query_000057,affordable cameras for everyday use,3,item_000065,5.528050,0
+query_000057,affordable cameras for everyday use,4,item_000405,5.528050,0
+query_000057,affordable cameras for everyday use,5,item_000304,5.286780,0
+query_000057,affordable cameras for everyday use,6,item_000029,5.174494,0
+query_000057,affordable cameras for everyday use,7,item_000318,5.174494,0
+query_000057,affordable cameras for everyday use,8,item_000082,4.964643,0
+query_000057,affordable cameras for everyday use,9,item_000177,4.964643,0
+query_000057,affordable cameras for everyday use,10,item_000361,4.964643,0
+query_000057,affordable cameras for everyday use,11,item_000102,4.359151,1
+query_000057,affordable cameras for everyday use,12,item_000117,4.359151,0
+query_000057,affordable cameras for everyday use,13,item_000217,4.359151,0
+query_000057,affordable cameras for everyday use,14,item_000228,4.359151,0
+query_000057,affordable cameras for everyday use,15,item_000299,4.359151,1
+query_000057,affordable cameras for everyday use,16,item_000310,4.359151,1
+query_000057,affordable cameras for everyday use,17,item_000344,4.359151,1
+query_000057,affordable cameras for everyday use,18,item_000121,4.325944,0
+query_000057,affordable cameras for everyday use,19,item_000337,4.325944,1
+query_000057,affordable cameras for everyday use,20,item_000015,4.229293,2
+query_000058,best men's shirts,1,item_000063,4.547874,1
+query_000058,best men's shirts,2,item_000080,4.547874,1
+query_000058,best men's shirts,3,item_000099,4.547874,1
+query_000058,best men's shirts,4,item_000107,4.547874,1
+query_000058,best men's shirts,5,item_000149,4.547874,1
+query_000058,best men's shirts,6,item_000206,4.547874,1
+query_000058,best men's shirts,7,item_000225,4.547874,1
+query_000058,best men's shirts,8,item_000250,4.547874,1
+query_000058,best men's shirts,9,item_000254,4.547874,1
+query_000058,best men's shirts,10,item_000263,4.547874,1
+query_000058,best men's shirts,11,item_000281,4.547874,1
+query_000058,best men's shirts,12,item_000292,4.547874,1
+query_000058,best men's shirts,13,item_000326,4.547874,1
+query_000058,best men's shirts,14,item_000330,4.547874,1
+query_000058,best men's shirts,15,item_000378,4.547874,1
+query_000058,best men's shirts,16,item_000388,4.547874,1
+query_000058,best men's shirts,17,item_000396,4.547874,1
+query_000058,best men's shirts,18,item_000412,4.547874,1
+query_000058,best men's shirts,19,item_000433,4.547874,1
+query_000058,best men's shirts,20,item_000467,4.547874,1
+query_000059,affordable action figures for everyday use,1,item_000029,13.405917,3
+query_000059,affordable action figures for everyday use,2,item_000318,13.405917,3
+query_000059,affordable action figures for everyday use,3,item_000044,12.450763,3
+query_000059,affordable action figures for everyday use,4,item_000375,12.450763,3
+query_000059,affordable action figures for everyday use,5,item_000432,12.450763,3
+query_000059,affordable action figures for everyday use,6,item_000141,11.665002,3
+query_000059,affordable action figures for everyday use,7,item_000285,11.665002,3
+query_000059,affordable action figures for everyday use,8,item_000315,11.665002,3
+query_000059,affordable action figures for everyday use,9,item_000108,9.686985,3
+query_000059,affordable action figures for everyday use,10,item_000249,9.686985,3
+query_000059,affordable action figures for everyday use,11,item_000302,9.686985,3
+query_000059,affordable action figures for everyday use,12,item_000365,9.686985,3
+query_000059,affordable action figures for everyday use,13,item_000374,9.686985,3
+query_000059,affordable action figures for everyday use,14,item_000421,9.686985,3
+query_000059,affordable action figures for everyday use,15,item_000446,9.686985,3
+query_000059,affordable action figures for everyday use,16,item_000032,8.373304,2
+query_000059,affordable action figures for everyday use,17,item_000034,8.373304,2
+query_000059,affordable action figures for everyday use,18,item_000054,8.373304,2
+query_000059,affordable action figures for everyday use,19,item_000074,8.373304,2
+query_000059,affordable action figures for everyday use,20,item_000091,8.373304,2
+query_000061,affordable yoga for everyday use,1,item_000405,10.188676,3
+query_000061,affordable yoga for everyday use,2,item_000062,8.995269,3
+query_000061,affordable yoga for everyday use,3,item_000214,8.995269,3
+query_000061,affordable yoga for everyday use,4,item_000394,8.864558,3
+query_000061,affordable yoga for everyday use,5,item_000076,6.264138,2
+query_000061,affordable yoga for everyday use,6,item_000224,6.264138,2
+query_000061,affordable yoga for everyday use,7,item_000258,6.264138,2
+query_000061,affordable yoga for everyday use,8,item_000261,6.264138,2
+query_000061,affordable yoga for everyday use,9,item_000262,6.264138,2
+query_000061,affordable yoga for everyday use,10,item_000266,6.264138,2
+query_000061,affordable yoga for everyday use,11,item_000441,6.264138,2
+query_000061,affordable yoga for everyday use,12,item_000449,6.264138,2
+query_000061,affordable yoga for everyday use,13,item_000460,6.264138,2
+query_000061,affordable yoga for everyday use,14,item_000005,5.657967,0
+query_000061,affordable yoga for everyday use,15,item_000487,5.657967,0
+query_000061,affordable yoga for everyday use,16,item_000065,5.528050,0
+query_000061,affordable yoga for everyday use,17,item_000304,5.286780,0
+query_000061,affordable yoga for everyday use,18,item_000029,5.174494,0
+query_000061,affordable yoga for everyday use,19,item_000318,5.174494,0
+query_000061,affordable yoga for everyday use,20,item_000082,4.964643,0
+query_000065,OrganicRoots Spices,1,item_000015,3.888706,2
+query_000065,OrganicRoots Spices,2,item_000025,3.888706,2
+query_000065,OrganicRoots Spices,3,item_000026,3.888706,2
+query_000065,OrganicRoots Spices,4,item_000040,3.888706,2
+query_000065,OrganicRoots Spices,5,item_000089,3.888706,2
+query_000065,OrganicRoots Spices,6,item_000126,3.888706,2
+query_000065,OrganicRoots Spices,7,item_000133,3.888706,2
+query_000065,OrganicRoots Spices,8,item_000138,3.888706,2
+query_000065,OrganicRoots Spices,9,item_000176,3.888706,2
+query_000065,OrganicRoots Spices,10,item_000187,3.888706,2
+query_000065,OrganicRoots Spices,11,item_000195,3.888706,2
+query_000065,OrganicRoots Spices,12,item_000204,3.888706,2
+query_000065,OrganicRoots Spices,13,item_000230,3.888706,2
+query_000065,OrganicRoots Spices,14,item_000335,3.888706,2
+query_000065,OrganicRoots Spices,15,item_000391,3.888706,2
+query_000065,OrganicRoots Spices,16,item_000399,3.888706,2
+query_000065,OrganicRoots Spices,17,item_000463,3.888706,2
+query_000065,OrganicRoots Spices,18,item_000013,3.853523,2
+query_000065,OrganicRoots Spices,19,item_000066,3.853523,2
+query_000065,OrganicRoots Spices,20,item_000092,3.853523,2
+query_000066,affordable tools & equipment for everyday use,1,item_000005,5.657967,0
+query_000066,affordable tools & equipment for everyday use,2,item_000487,5.657967,0
+query_000066,affordable tools & equipment for everyday use,3,item_000065,5.528050,0
+query_000066,affordable tools & equipment for everyday use,4,item_000405,5.528050,0
+query_000066,affordable tools & equipment for everyday use,5,item_000304,5.286780,2
+query_000066,affordable tools & equipment for everyday use,6,item_000029,5.174494,0
+query_000066,affordable tools & equipment for everyday use,7,item_000318,5.174494,0
+query_000066,affordable tools & equipment for everyday use,8,item_000082,4.964643,0
+query_000066,affordable tools & equipment for everyday use,9,item_000177,4.964643,0
+query_000066,affordable tools & equipment for everyday use,10,item_000361,4.964643,0
+query_000066,affordable tools & equipment for everyday use,11,item_000102,4.359151,0
+query_000066,affordable tools & equipment for everyday use,12,item_000117,4.359151,0
+query_000066,affordable tools & equipment for everyday use,13,item_000217,4.359151,0
+query_000066,affordable tools & equipment for everyday use,14,item_000228,4.359151,0
+query_000066,affordable tools & equipment for everyday use,15,item_000299,4.359151,0
+query_000066,affordable tools & equipment for everyday use,16,item_000310,4.359151,0
+query_000066,affordable tools & equipment for everyday use,17,item_000344,4.359151,0
+query_000066,affordable tools & equipment for everyday use,18,item_000121,4.325944,0
+query_000066,affordable tools & equipment for everyday use,19,item_000337,4.325944,0
+query_000066,affordable tools & equipment for everyday use,20,item_000015,4.229293,0
+query_000067,best comics,1,item_000023,4.036109,2
+query_000067,best comics,2,item_000043,4.036109,2
+query_000067,best comics,3,item_000117,4.036109,2
+query_000067,best comics,4,item_000137,4.036109,2
+query_000067,best comics,5,item_000155,4.036109,2
+query_000067,best comics,6,item_000165,4.036109,2
+query_000067,best comics,7,item_000197,4.036109,2
+query_000067,best comics,8,item_000201,4.036109,2
+query_000067,best comics,9,item_000217,4.036109,2
+query_000067,best comics,10,item_000228,4.036109,2
+query_000067,best comics,11,item_000251,4.036109,2
+query_000067,best comics,12,item_000295,4.036109,2
+query_000067,best comics,13,item_000328,4.036109,2
+query_000067,best comics,14,item_000341,4.036109,2
+query_000067,best comics,15,item_000372,4.036109,2
+query_000067,best comics,16,item_000429,4.036109,2
+query_000067,best comics,17,item_000447,4.036109,2
+query_000067,best comics,18,item_000458,4.036109,2
+query_000067,best comics,19,item_000481,4.036109,2
+query_000067,best comics,20,item_000004,3.998220,2
+query_000068,affordable baking for everyday use,1,item_000005,5.657967,0
+query_000068,affordable baking for everyday use,2,item_000487,5.657967,0
+query_000068,affordable baking for everyday use,3,item_000065,5.528050,0
+query_000068,affordable baking for everyday use,4,item_000405,5.528050,0
+query_000068,affordable baking for everyday use,5,item_000304,5.286780,0
+query_000068,affordable baking for everyday use,6,item_000029,5.174494,0
+query_000068,affordable baking for everyday use,7,item_000318,5.174494,0
+query_000068,affordable baking for everyday use,8,item_000082,4.964643,0
+query_000068,affordable baking for everyday use,9,item_000177,4.964643,0
+query_000068,affordable baking for everyday use,10,item_000361,4.964643,0
+query_000068,affordable baking for everyday use,11,item_000102,4.359151,0
+query_000068,affordable baking for everyday use,12,item_000117,4.359151,0
+query_000068,affordable baking for everyday use,13,item_000217,4.359151,0
+query_000068,affordable baking for everyday use,14,item_000228,4.359151,0
+query_000068,affordable baking for everyday use,15,item_000299,4.359151,0
+query_000068,affordable baking for everyday use,16,item_000310,4.359151,0
+query_000068,affordable baking for everyday use,17,item_000344,4.359151,0
+query_000068,affordable baking for everyday use,18,item_000121,4.325944,0
+query_000068,affordable baking for everyday use,19,item_000337,4.325944,0
+query_000068,affordable baking for everyday use,20,item_000015,4.229293,1
+query_000069,EcoFresh air quality review,1,item_000037,11.774814,3
+query_000069,EcoFresh air quality review,2,item_000042,11.774814,3
+query_000069,EcoFresh air quality review,3,item_000078,11.774814,3
+query_000069,EcoFresh air quality review,4,item_000084,11.774814,3
+query_000069,EcoFresh air quality review,5,item_000097,11.774814,3
+query_000069,EcoFresh air quality review,6,item_000119,11.774814,3
+query_000069,EcoFresh air quality review,7,item_000140,11.774814,3
+query_000069,EcoFresh air quality review,8,item_000154,11.774814,3
+query_000069,EcoFresh air quality review,9,item_000164,11.774814,3
+query_000069,EcoFresh air quality review,10,item_000260,11.774814,3
+query_000069,EcoFresh air quality review,11,item_000286,11.774814,3
+query_000069,EcoFresh air quality review,12,item_000298,11.774814,3
+query_000069,EcoFresh air quality review,13,item_000327,11.774814,3
+query_000069,EcoFresh air quality review,14,item_000368,11.774814,3
+query_000069,EcoFresh air quality review,15,item_000376,11.774814,3
+query_000069,EcoFresh air quality review,16,item_000401,11.774814,3
+query_000069,EcoFresh air quality review,17,item_000411,11.774814,3
+query_000069,EcoFresh air quality review,18,item_000423,11.774814,3
+query_000069,EcoFresh air quality review,19,item_000428,11.774814,3
+query_000069,EcoFresh air quality review,20,item_000434,11.774814,3
+query_000072,best action figures,1,item_000032,8.373304,2
+query_000072,best action figures,2,item_000034,8.373304,2
+query_000072,best action figures,3,item_000044,8.373304,2
+query_000072,best action figures,4,item_000054,8.373304,2
+query_000072,best action figures,5,item_000074,8.373304,2
+query_000072,best action figures,6,item_000091,8.373304,2
+query_000072,best action figures,7,item_000106,8.373304,2
+query_000072,best action figures,8,item_000115,8.373304,2
+query_000072,best action figures,9,item_000142,8.373304,2
+query_000072,best action figures,10,item_000145,8.373304,2
+query_000072,best action figures,11,item_000311,8.373304,2
+query_000072,best action figures,12,item_000350,8.373304,2
+query_000072,best action figures,13,item_000375,8.373304,2
+query_000072,best action figures,14,item_000386,8.373304,2
+query_000072,best action figures,15,item_000432,8.373304,2
+query_000072,best action figures,16,item_000442,8.373304,2
+query_000072,best action figures,17,item_000465,8.373304,2
+query_000072,best action figures,18,item_000475,8.373304,2
+query_000072,best action figures,19,item_000496,8.373304,2
+query_000072,best action figures,20,item_000021,8.266282,3
+query_000073,PenPoint Press children's books review,1,item_000063,4.547874,0
+query_000073,PenPoint Press children's books review,2,item_000080,4.547874,0
+query_000073,PenPoint Press children's books review,3,item_000099,4.547874,0
+query_000073,PenPoint Press children's books review,4,item_000107,4.547874,0
+query_000073,PenPoint Press children's books review,5,item_000149,4.547874,0
+query_000073,PenPoint Press children's books review,6,item_000206,4.547874,0
+query_000073,PenPoint Press children's books review,7,item_000225,4.547874,0
+query_000073,PenPoint Press children's books review,8,item_000250,4.547874,0
+query_000073,PenPoint Press children's books review,9,item_000254,4.547874,0
+query_000073,PenPoint Press children's books review,10,item_000263,4.547874,0
+query_000073,PenPoint Press children's books review,11,item_000281,4.547874,0
+query_000073,PenPoint Press children's books review,12,item_000292,4.547874,0
+query_000073,PenPoint Press children's books review,13,item_000326,4.547874,0
+query_000073,PenPoint Press children's books review,14,item_000330,4.547874,0
+query_000073,PenPoint Press children's books review,15,item_000378,4.547874,0
+query_000073,PenPoint Press children's books review,16,item_000388,4.547874,0
+query_000073,PenPoint Press children's books review,17,item_000396,4.547874,0
+query_000073,PenPoint Press children's books review,18,item_000412,4.547874,0
+query_000073,PenPoint Press children's books review,19,item_000433,4.547874,0
+query_000073,PenPoint Press children's books review,20,item_000467,4.547874,0
+query_000074,affordable non-fiction for everyday use,1,item_000005,5.657967,2
+query_000074,affordable non-fiction for everyday use,2,item_000487,5.657967,1
+query_000074,affordable non-fiction for everyday use,3,item_000065,5.528050,0
+query_000074,affordable non-fiction for everyday use,4,item_000405,5.528050,0
+query_000074,affordable non-fiction for everyday use,5,item_000304,5.286780,0
+query_000074,affordable non-fiction for everyday use,6,item_000029,5.174494,0
+query_000074,affordable non-fiction for everyday use,7,item_000318,5.174494,0
+query_000074,affordable non-fiction for everyday use,8,item_000082,4.964643,0
+query_000074,affordable non-fiction for everyday use,9,item_000177,4.964643,0
+query_000074,affordable non-fiction for everyday use,10,item_000361,4.964643,0
+query_000074,affordable non-fiction for everyday use,11,item_000102,4.359151,0
+query_000074,affordable non-fiction for everyday use,12,item_000117,4.359151,1
+query_000074,affordable non-fiction for everyday use,13,item_000217,4.359151,1
+query_000074,affordable non-fiction for everyday use,14,item_000228,4.359151,1
+query_000074,affordable non-fiction for everyday use,15,item_000299,4.359151,0
+query_000074,affordable non-fiction for everyday use,16,item_000310,4.359151,0
+query_000074,affordable non-fiction for everyday use,17,item_000344,4.359151,0
+query_000074,affordable non-fiction for everyday use,18,item_000121,4.325944,1
+query_000074,affordable non-fiction for everyday use,19,item_000337,4.325944,0
+query_000074,affordable non-fiction for everyday use,20,item_000015,4.229293,0
+query_000075,affordable action figures for everyday use,1,item_000029,13.405917,3
+query_000075,affordable action figures for everyday use,2,item_000318,13.405917,3
+query_000075,affordable action figures for everyday use,3,item_000044,12.450763,3
+query_000075,affordable action figures for everyday use,4,item_000375,12.450763,3
+query_000075,affordable action figures for everyday use,5,item_000432,12.450763,3
+query_000075,affordable action figures for everyday use,6,item_000141,11.665002,3
+query_000075,affordable action figures for everyday use,7,item_000285,11.665002,3
+query_000075,affordable action figures for everyday use,8,item_000315,11.665002,3
+query_000075,affordable action figures for everyday use,9,item_000108,9.686985,3
+query_000075,affordable action figures for everyday use,10,item_000249,9.686985,3
+query_000075,affordable action figures for everyday use,11,item_000302,9.686985,3
+query_000075,affordable action figures for everyday use,12,item_000365,9.686985,3
+query_000075,affordable action figures for everyday use,13,item_000374,9.686985,3
+query_000075,affordable action figures for everyday use,14,item_000421,9.686985,3
+query_000075,affordable action figures for everyday use,15,item_000446,9.686985,3
+query_000075,affordable action figures for everyday use,16,item_000032,8.373304,2
+query_000075,affordable action figures for everyday use,17,item_000034,8.373304,2
+query_000075,affordable action figures for everyday use,18,item_000054,8.373304,2
+query_000075,affordable action figures for everyday use,19,item_000074,8.373304,2
+query_000075,affordable action figures for everyday use,20,item_000091,8.373304,2
+query_000076,affordable tools & equipment for everyday use,1,item_000005,5.657967,0
+query_000076,affordable tools & equipment for everyday use,2,item_000487,5.657967,0
+query_000076,affordable tools & equipment for everyday use,3,item_000065,5.528050,0
+query_000076,affordable tools & equipment for everyday use,4,item_000405,5.528050,0
+query_000076,affordable tools & equipment for everyday use,5,item_000304,5.286780,2
+query_000076,affordable tools & equipment for everyday use,6,item_000029,5.174494,0
+query_000076,affordable tools & equipment for everyday use,7,item_000318,5.174494,0
+query_000076,affordable tools & equipment for everyday use,8,item_000082,4.964643,0
+query_000076,affordable tools & equipment for everyday use,9,item_000177,4.964643,0
+query_000076,affordable tools & equipment for everyday use,10,item_000361,4.964643,0
+query_000076,affordable tools & equipment for everyday use,11,item_000102,4.359151,0
+query_000076,affordable tools & equipment for everyday use,12,item_000117,4.359151,0
+query_000076,affordable tools & equipment for everyday use,13,item_000217,4.359151,0
+query_000076,affordable tools & equipment for everyday use,14,item_000228,4.359151,0
+query_000076,affordable tools & equipment for everyday use,15,item_000299,4.359151,0
+query_000076,affordable tools & equipment for everyday use,16,item_000310,4.359151,0
+query_000076,affordable tools & equipment for everyday use,17,item_000344,4.359151,0
+query_000076,affordable tools & equipment for everyday use,18,item_000121,4.325944,0
+query_000076,affordable tools & equipment for everyday use,19,item_000337,4.325944,0
+query_000076,affordable tools & equipment for everyday use,20,item_000015,4.229293,0
+query_000079,FarmFresh Spices,1,item_000015,3.888706,2
+query_000079,FarmFresh Spices,2,item_000025,3.888706,2
+query_000079,FarmFresh Spices,3,item_000026,3.888706,2
+query_000079,FarmFresh Spices,4,item_000040,3.888706,2
+query_000079,FarmFresh Spices,5,item_000089,3.888706,2
+query_000079,FarmFresh Spices,6,item_000126,3.888706,2
+query_000079,FarmFresh Spices,7,item_000133,3.888706,2
+query_000079,FarmFresh Spices,8,item_000138,3.888706,2
+query_000079,FarmFresh Spices,9,item_000176,3.888706,2
+query_000079,FarmFresh Spices,10,item_000187,3.888706,2
+query_000079,FarmFresh Spices,11,item_000195,3.888706,2
+query_000079,FarmFresh Spices,12,item_000204,3.888706,2
+query_000079,FarmFresh Spices,13,item_000230,3.888706,2
+query_000079,FarmFresh Spices,14,item_000335,3.888706,2
+query_000079,FarmFresh Spices,15,item_000391,3.888706,2
+query_000079,FarmFresh Spices,16,item_000399,3.888706,2
+query_000079,FarmFresh Spices,17,item_000463,3.888706,2
+query_000079,FarmFresh Spices,18,item_000013,3.853523,2
+query_000079,FarmFresh Spices,19,item_000066,3.853523,2
+query_000079,FarmFresh Spices,20,item_000092,3.853523,2
+query_000082,BrainBoost action figures review,1,item_000032,12.885794,3
+query_000082,BrainBoost action figures review,2,item_000034,12.885794,3
+query_000082,BrainBoost action figures review,3,item_000044,12.885794,3
+query_000082,BrainBoost action figures review,4,item_000054,12.885794,3
+query_000082,BrainBoost action figures review,5,item_000074,12.885794,3
+query_000082,BrainBoost action figures review,6,item_000091,12.885794,3
+query_000082,BrainBoost action figures review,7,item_000106,12.885794,3
+query_000082,BrainBoost action figures review,8,item_000115,12.885794,3
+query_000082,BrainBoost action figures review,9,item_000142,12.885794,3
+query_000082,BrainBoost action figures review,10,item_000145,12.885794,3
+query_000082,BrainBoost action figures review,11,item_000311,12.885794,3
+query_000082,BrainBoost action figures review,12,item_000350,12.885794,3
+query_000082,BrainBoost action figures review,13,item_000375,12.885794,3
+query_000082,BrainBoost action figures review,14,item_000386,12.885794,3
+query_000082,BrainBoost action figures review,15,item_000432,12.885794,3
+query_000082,BrainBoost action figures review,16,item_000442,12.885794,3
+query_000082,BrainBoost action figures review,17,item_000465,12.885794,3
+query_000082,BrainBoost action figures review,18,item_000475,12.885794,3
+query_000082,BrainBoost action figures review,19,item_000496,12.885794,3
+query_000082,BrainBoost action figures review,20,item_000029,12.743914,3
+query_000083,EleganceWear jackets review,1,item_000053,4.418857,2
+query_000083,EleganceWear jackets review,2,item_000082,4.418857,2
+query_000083,EleganceWear jackets review,3,item_000161,4.418857,2
+query_000083,EleganceWear jackets review,4,item_000168,4.418857,2
+query_000083,EleganceWear jackets review,5,item_000169,4.418857,2
+query_000083,EleganceWear jackets review,6,item_000177,4.418857,2
+query_000083,EleganceWear jackets review,7,item_000291,4.418857,2
+query_000083,EleganceWear jackets review,8,item_000312,4.418857,2
+query_000083,EleganceWear jackets review,9,item_000340,4.418857,2
+query_000083,EleganceWear jackets review,10,item_000361,4.418857,2
+query_000083,EleganceWear jackets review,11,item_000364,4.418857,2
+query_000083,EleganceWear jackets review,12,item_000382,4.418857,2
+query_000083,EleganceWear jackets review,13,item_000384,4.418857,2
+query_000083,EleganceWear jackets review,14,item_000400,4.418857,2
+query_000083,EleganceWear jackets review,15,item_000413,4.418857,2
+query_000083,EleganceWear jackets review,16,item_000466,4.418857,2
+query_000083,EleganceWear jackets review,17,item_000498,4.418857,2
+query_000083,EleganceWear jackets review,18,item_000063,4.396052,2
+query_000083,EleganceWear jackets review,19,item_000080,4.396052,2
+query_000083,EleganceWear jackets review,20,item_000099,4.396052,2
+query_000086,affordable lighting for everyday use,1,item_000005,5.657967,0
+query_000086,affordable lighting for everyday use,2,item_000487,5.657967,0
+query_000086,affordable lighting for everyday use,3,item_000065,5.528050,1
+query_000086,affordable lighting for everyday use,4,item_000405,5.528050,0
+query_000086,affordable lighting for everyday use,5,item_000304,5.286780,0
+query_000086,affordable lighting for everyday use,6,item_000029,5.174494,0
+query_000086,affordable lighting for everyday use,7,item_000318,5.174494,0
+query_000086,affordable lighting for everyday use,8,item_000082,4.964643,0
+query_000086,affordable lighting for everyday use,9,item_000177,4.964643,0
+query_000086,affordable lighting for everyday use,10,item_000361,4.964643,0
+query_000086,affordable lighting for everyday use,11,item_000102,4.359151,0
+query_000086,affordable lighting for everyday use,12,item_000117,4.359151,0
+query_000086,affordable lighting for everyday use,13,item_000217,4.359151,0
+query_000086,affordable lighting for everyday use,14,item_000228,4.359151,0
+query_000086,affordable lighting for everyday use,15,item_000299,4.359151,0
+query_000086,affordable lighting for everyday use,16,item_000310,4.359151,0
+query_000086,affordable lighting for everyday use,17,item_000344,4.359151,0
+query_000086,affordable lighting for everyday use,18,item_000121,4.325944,0
+query_000086,affordable lighting for everyday use,19,item_000337,4.325944,0
+query_000086,affordable lighting for everyday use,20,item_000015,4.229293,0
+query_000087,best men's shirts,1,item_000063,4.547874,1
+query_000087,best men's shirts,2,item_000080,4.547874,1
+query_000087,best men's shirts,3,item_000099,4.547874,1
+query_000087,best men's shirts,4,item_000107,4.547874,1
+query_000087,best men's shirts,5,item_000149,4.547874,1
+query_000087,best men's shirts,6,item_000206,4.547874,1
+query_000087,best men's shirts,7,item_000225,4.547874,1
+query_000087,best men's shirts,8,item_000250,4.547874,1
+query_000087,best men's shirts,9,item_000254,4.547874,1
+query_000087,best men's shirts,10,item_000263,4.547874,1
+query_000087,best men's shirts,11,item_000281,4.547874,1
+query_000087,best men's shirts,12,item_000292,4.547874,1
+query_000087,best men's shirts,13,item_000326,4.547874,1
+query_000087,best men's shirts,14,item_000330,4.547874,1
+query_000087,best men's shirts,15,item_000378,4.547874,1
+query_000087,best men's shirts,16,item_000388,4.547874,1
+query_000087,best men's shirts,17,item_000396,4.547874,1
+query_000087,best men's shirts,18,item_000412,4.547874,1
+query_000087,best men's shirts,19,item_000433,4.547874,1
+query_000087,best men's shirts,20,item_000467,4.547874,1
+query_000089,ApexVision Smartphones,1,item_000020,4.036109,2
+query_000089,ApexVision Smartphones,2,item_000102,4.036109,2
+query_000089,ApexVision Smartphones,3,item_000112,4.036109,2
+query_000089,ApexVision Smartphones,4,item_000209,4.036109,2
+query_000089,ApexVision Smartphones,5,item_000212,4.036109,2
+query_000089,ApexVision Smartphones,6,item_000223,4.036109,2
+query_000089,ApexVision Smartphones,7,item_000275,4.036109,2
+query_000089,ApexVision Smartphones,8,item_000299,4.036109,2
+query_000089,ApexVision Smartphones,9,item_000310,4.036109,2
+query_000089,ApexVision Smartphones,10,item_000323,4.036109,2
+query_000089,ApexVision Smartphones,11,item_000334,4.036109,2
+query_000089,ApexVision Smartphones,12,item_000343,4.036109,2
+query_000089,ApexVision Smartphones,13,item_000344,4.036109,2
+query_000089,ApexVision Smartphones,14,item_000346,4.036109,2
+query_000089,ApexVision Smartphones,15,item_000352,4.036109,2
+query_000089,ApexVision Smartphones,16,item_000355,4.036109,2
+query_000089,ApexVision Smartphones,17,item_000360,4.036109,2
+query_000089,ApexVision Smartphones,18,item_000362,4.036109,2
+query_000089,ApexVision Smartphones,19,item_000373,4.036109,2
+query_000089,ApexVision Smartphones,20,item_000385,4.036109,2
+query_000091,affordable educational for everyday use,1,item_000005,5.657967,0
+query_000091,affordable educational for everyday use,2,item_000487,5.657967,0
+query_000091,affordable educational for everyday use,3,item_000065,5.528050,0
+query_000091,affordable educational for everyday use,4,item_000405,5.528050,0
+query_000091,affordable educational for everyday use,5,item_000304,5.286780,0
+query_000091,affordable educational for everyday use,6,item_000029,5.174494,1
+query_000091,affordable educational for everyday use,7,item_000318,5.174494,1
+query_000091,affordable educational for everyday use,8,item_000082,4.964643,0
+query_000091,affordable educational for everyday use,9,item_000177,4.964643,0
+query_000091,affordable educational for everyday use,10,item_000361,4.964643,0
+query_000091,affordable educational for everyday use,11,item_000102,4.359151,0
+query_000091,affordable educational for everyday use,12,item_000117,4.359151,0
+query_000091,affordable educational for everyday use,13,item_000217,4.359151,0
+query_000091,affordable educational for everyday use,14,item_000228,4.359151,0
+query_000091,affordable educational for everyday use,15,item_000299,4.359151,0
+query_000091,affordable educational for everyday use,16,item_000310,4.359151,0
+query_000091,affordable educational for everyday use,17,item_000344,4.359151,0
+query_000091,affordable educational for everyday use,18,item_000121,4.325944,0
+query_000091,affordable educational for everyday use,19,item_000337,4.325944,0
+query_000091,affordable educational for everyday use,20,item_000015,4.229293,0
+query_000093,BrightMinds Children's Books,1,item_000063,4.547874,0
+query_000093,BrightMinds Children's Books,2,item_000080,4.547874,0
+query_000093,BrightMinds Children's Books,3,item_000099,4.547874,0
+query_000093,BrightMinds Children's Books,4,item_000107,4.547874,0
+query_000093,BrightMinds Children's Books,5,item_000149,4.547874,0
+query_000093,BrightMinds Children's Books,6,item_000206,4.547874,0
+query_000093,BrightMinds Children's Books,7,item_000225,4.547874,0
+query_000093,BrightMinds Children's Books,8,item_000250,4.547874,0
+query_000093,BrightMinds Children's Books,9,item_000254,4.547874,0
+query_000093,BrightMinds Children's Books,10,item_000263,4.547874,0
+query_000093,BrightMinds Children's Books,11,item_000281,4.547874,0
+query_000093,BrightMinds Children's Books,12,item_000292,4.547874,0
+query_000093,BrightMinds Children's Books,13,item_000326,4.547874,0
+query_000093,BrightMinds Children's Books,14,item_000330,4.547874,0
+query_000093,BrightMinds Children's Books,15,item_000378,4.547874,0
+query_000093,BrightMinds Children's Books,16,item_000388,4.547874,0
+query_000093,BrightMinds Children's Books,17,item_000396,4.547874,0
+query_000093,BrightMinds Children's Books,18,item_000412,4.547874,0
+query_000093,BrightMinds Children's Books,19,item_000433,4.547874,0
+query_000093,BrightMinds Children's Books,20,item_000467,4.547874,0
+query_000094,affordable board games for everyday use,1,item_000029,8.337233,1
+query_000094,affordable board games for everyday use,2,item_000318,8.337233,1
+query_000094,affordable board games for everyday use,3,item_000141,7.735133,2
+query_000094,affordable board games for everyday use,4,item_000285,7.735133,2
+query_000094,affordable board games for everyday use,5,item_000315,7.735133,2
+query_000094,affordable board games for everyday use,6,item_000044,7.240198,1
+query_000094,affordable board games for everyday use,7,item_000375,7.240198,1
+query_000094,affordable board games for everyday use,8,item_000432,7.240198,1
+query_000094,affordable board games for everyday use,9,item_000005,5.657967,0
+query_000094,affordable board games for everyday use,10,item_000487,5.657967,0
+query_000094,affordable board games for everyday use,11,item_000065,5.528050,0
+query_000094,affordable board games for everyday use,12,item_000405,5.528050,0
+query_000094,affordable board games for everyday use,13,item_000304,5.286780,0
+query_000094,affordable board games for everyday use,14,item_000082,4.964643,0
+query_000094,affordable board games for everyday use,15,item_000177,4.964643,0
+query_000094,affordable board games for everyday use,16,item_000361,4.964643,0
+query_000094,affordable board games for everyday use,17,item_000108,4.618301,1
+query_000094,affordable board games for everyday use,18,item_000249,4.618301,1
+query_000094,affordable board games for everyday use,19,item_000302,4.618301,1
+query_000094,affordable board games for everyday use,20,item_000365,4.618301,1
+query_000096,affordable board games for everyday use,1,item_000029,8.337233,1
+query_000096,affordable board games for everyday use,2,item_000318,8.337233,1
+query_000096,affordable board games for everyday use,3,item_000141,7.735133,2
+query_000096,affordable board games for everyday use,4,item_000285,7.735133,2
+query_000096,affordable board games for everyday use,5,item_000315,7.735133,2
+query_000096,affordable board games for everyday use,6,item_000044,7.240198,1
+query_000096,affordable board games for everyday use,7,item_000375,7.240198,1
+query_000096,affordable board games for everyday use,8,item_000432,7.240198,1
+query_000096,affordable board games for everyday use,9,item_000005,5.657967,0
+query_000096,affordable board games for everyday use,10,item_000487,5.657967,0
+query_000096,affordable board games for everyday use,11,item_000065,5.528050,0
+query_000096,affordable board games for everyday use,12,item_000405,5.528050,0
+query_000096,affordable board games for everyday use,13,item_000304,5.286780,0
+query_000096,affordable board games for everyday use,14,item_000082,4.964643,0
+query_000096,affordable board games for everyday use,15,item_000177,4.964643,0
+query_000096,affordable board games for everyday use,16,item_000361,4.964643,0
+query_000096,affordable board games for everyday use,17,item_000108,4.618301,1
+query_000096,affordable board games for everyday use,18,item_000249,4.618301,1
+query_000096,affordable board games for everyday use,19,item_000302,4.618301,1
+query_000096,affordable board games for everyday use,20,item_000365,4.618301,1
+query_000098,affordable men's shirts for everyday use,1,item_000082,9.383500,1
+query_000098,affordable men's shirts for everyday use,2,item_000177,9.383500,1
+query_000098,affordable men's shirts for everyday use,3,item_000361,9.383500,1
+query_000098,affordable men's shirts for everyday use,4,item_000094,8.436212,1
+query_000098,affordable men's shirts for everyday use,5,item_000194,8.436212,1
+query_000098,affordable men's shirts for everyday use,6,item_000202,8.436212,1
+query_000098,affordable men's shirts for everyday use,7,item_000418,8.436212,1
+query_000098,affordable men's shirts for everyday use,8,item_000382,8.382480,1
+query_000098,affordable men's shirts for everyday use,9,item_000400,8.382480,1
+query_000098,affordable men's shirts for everyday use,10,item_000161,5.790074,1
+query_000098,affordable men's shirts for everyday use,11,item_000169,5.790074,1
+query_000098,affordable men's shirts for everyday use,12,item_000291,5.790074,1
+query_000098,affordable men's shirts for everyday use,13,item_000312,5.790074,1
+query_000098,affordable men's shirts for everyday use,14,item_000384,5.790074,1
+query_000098,affordable men's shirts for everyday use,15,item_000413,5.790074,1
+query_000098,affordable men's shirts for everyday use,16,item_000498,5.790074,1
+query_000098,affordable men's shirts for everyday use,17,item_000005,5.657967,2
+query_000098,affordable men's shirts for everyday use,18,item_000487,5.657967,0
+query_000098,affordable men's shirts for everyday use,19,item_000065,5.528050,0
+query_000098,affordable men's shirts for everyday use,20,item_000405,5.528050,0
+query_000099,affordable men's shirts for everyday use,1,item_000082,9.383500,1
+query_000099,affordable men's shirts for everyday use,2,item_000177,9.383500,1
+query_000099,affordable men's shirts for everyday use,3,item_000361,9.383500,1
+query_000099,affordable men's shirts for everyday use,4,item_000094,8.436212,1
+query_000099,affordable men's shirts for everyday use,5,item_000194,8.436212,1
+query_000099,affordable men's shirts for everyday use,6,item_000202,8.436212,1
+query_000099,affordable men's shirts for everyday use,7,item_000418,8.436212,1
+query_000099,affordable men's shirts for everyday use,8,item_000382,8.382480,1
+query_000099,affordable men's shirts for everyday use,9,item_000400,8.382480,1
+query_000099,affordable men's shirts for everyday use,10,item_000161,5.790074,1
+query_000099,affordable men's shirts for everyday use,11,item_000169,5.790074,1
+query_000099,affordable men's shirts for everyday use,12,item_000291,5.790074,1
+query_000099,affordable men's shirts for everyday use,13,item_000312,5.790074,1
+query_000099,affordable men's shirts for everyday use,14,item_000384,5.790074,1
+query_000099,affordable men's shirts for everyday use,15,item_000413,5.790074,1
+query_000099,affordable men's shirts for everyday use,16,item_000498,5.790074,1
+query_000099,affordable men's shirts for everyday use,17,item_000005,5.657967,2
+query_000099,affordable men's shirts for everyday use,18,item_000487,5.657967,0
+query_000099,affordable men's shirts for everyday use,19,item_000065,5.528050,0
+query_000099,affordable men's shirts for everyday use,20,item_000405,5.528050,0
+query_000104,affordable storage for everyday use,1,item_000005,5.657967,0
+query_000104,affordable storage for everyday use,2,item_000487,5.657967,0
+query_000104,affordable storage for everyday use,3,item_000065,5.528050,1
+query_000104,affordable storage for everyday use,4,item_000405,5.528050,0
+query_000104,affordable storage for everyday use,5,item_000304,5.286780,0
+query_000104,affordable storage for everyday use,6,item_000029,5.174494,0
+query_000104,affordable storage for everyday use,7,item_000318,5.174494,0
+query_000104,affordable storage for everyday use,8,item_000082,4.964643,0
+query_000104,affordable storage for everyday use,9,item_000177,4.964643,0
+query_000104,affordable storage for everyday use,10,item_000361,4.964643,0
+query_000104,affordable storage for everyday use,11,item_000102,4.359151,0
+query_000104,affordable storage for everyday use,12,item_000117,4.359151,0
+query_000104,affordable storage for everyday use,13,item_000217,4.359151,0
+query_000104,affordable storage for everyday use,14,item_000228,4.359151,0
+query_000104,affordable storage for everyday use,15,item_000299,4.359151,0
+query_000104,affordable storage for everyday use,16,item_000310,4.359151,0
+query_000104,affordable storage for everyday use,17,item_000344,4.359151,0
+query_000104,affordable storage for everyday use,18,item_000121,4.325944,0
+query_000104,affordable storage for everyday use,19,item_000337,4.325944,0
+query_000104,affordable storage for everyday use,20,item_000015,4.229293,0
+query_000105,best air quality,1,item_000037,7.262323,3
+query_000105,best air quality,2,item_000042,7.262323,3
+query_000105,best air quality,3,item_000078,7.262323,3
+query_000105,best air quality,4,item_000084,7.262323,3
+query_000105,best air quality,5,item_000097,7.262323,3
+query_000105,best air quality,6,item_000119,7.262323,3
+query_000105,best air quality,7,item_000140,7.262323,3
+query_000105,best air quality,8,item_000154,7.262323,3
+query_000105,best air quality,9,item_000164,7.262323,3
+query_000105,best air quality,10,item_000260,7.262323,3
+query_000105,best air quality,11,item_000286,7.262323,3
+query_000105,best air quality,12,item_000298,7.262323,3
+query_000105,best air quality,13,item_000327,7.262323,3
+query_000105,best air quality,14,item_000368,7.262323,3
+query_000105,best air quality,15,item_000376,7.262323,3
+query_000105,best air quality,16,item_000401,7.262323,3
+query_000105,best air quality,17,item_000411,7.262323,3
+query_000105,best air quality,18,item_000423,7.262323,3
+query_000105,best air quality,19,item_000428,7.262323,3
+query_000105,best air quality,20,item_000434,7.262323,3
+query_000106,affordable electronics for everyday use,1,item_000005,9.130105,2
+query_000106,affordable electronics for everyday use,2,item_000337,8.324165,0
+query_000106,affordable electronics for everyday use,3,item_000102,7.874272,0
+query_000106,affordable electronics for everyday use,4,item_000299,7.874272,0
+query_000106,affordable electronics for everyday use,5,item_000310,7.874272,0
+query_000106,affordable electronics for everyday use,6,item_000344,7.874272,0
+query_000106,affordable electronics for everyday use,7,item_000487,5.657967,0
+query_000106,affordable electronics for everyday use,8,item_000065,5.528050,0
+query_000106,affordable electronics for everyday use,9,item_000405,5.528050,0
+query_000106,affordable electronics for everyday use,10,item_000304,5.286780,1
+query_000106,affordable electronics for everyday use,11,item_000029,5.174494,0
+query_000106,affordable electronics for everyday use,12,item_000318,5.174494,0
+query_000106,affordable electronics for everyday use,13,item_000060,5.131885,0
+query_000106,affordable electronics for everyday use,14,item_000064,5.131885,0
+query_000106,affordable electronics for everyday use,15,item_000190,5.131885,0
+query_000106,affordable electronics for everyday use,16,item_000220,5.131885,0
+query_000106,affordable electronics for everyday use,17,item_000240,5.131885,0
+query_000106,affordable electronics for everyday use,18,item_000320,5.131885,0
+query_000106,affordable electronics for everyday use,19,item_000419,5.131885,0
+query_000106,affordable electronics for everyday use,20,item_000468,5.131885,0
+query_000108,affordable cleaning for everyday use,1,item_000005,5.657967,0
+query_000108,affordable cleaning for everyday use,2,item_000487,5.657967,0
+query_000108,affordable cleaning for everyday use,3,item_000065,5.528050,0
+query_000108,affordable cleaning for everyday use,4,item_000405,5.528050,0
+query_000108,affordable cleaning for everyday use,5,item_000304,5.286780,0
+query_000108,affordable cleaning for everyday use,6,item_000029,5.174494,0
+query_000108,affordable cleaning for everyday use,7,item_000318,5.174494,0
+query_000108,affordable cleaning for everyday use,8,item_000082,4.964643,0
+query_000108,affordable cleaning for everyday use,9,item_000177,4.964643,0
+query_000108,affordable cleaning for everyday use,10,item_000361,4.964643,0
+query_000108,affordable cleaning for everyday use,11,item_000102,4.359151,0
+query_000108,affordable cleaning for everyday use,12,item_000117,4.359151,0
+query_000108,affordable cleaning for everyday use,13,item_000217,4.359151,0
+query_000108,affordable cleaning for everyday use,14,item_000228,4.359151,0
+query_000108,affordable cleaning for everyday use,15,item_000299,4.359151,0
+query_000108,affordable cleaning for everyday use,16,item_000310,4.359151,0
+query_000108,affordable cleaning for everyday use,17,item_000344,4.359151,0
+query_000108,affordable cleaning for everyday use,18,item_000121,4.325944,0
+query_000108,affordable cleaning for everyday use,19,item_000337,4.325944,0
+query_000108,affordable cleaning for everyday use,20,item_000015,4.229293,0
+query_000109,best women's dresses,1,item_000063,12.659110,2
+query_000109,best women's dresses,2,item_000080,12.659110,2
+query_000109,best women's dresses,3,item_000099,12.659110,2
+query_000109,best women's dresses,4,item_000107,12.659110,2
+query_000109,best women's dresses,5,item_000149,12.659110,2
+query_000109,best women's dresses,6,item_000206,12.659110,2
+query_000109,best women's dresses,7,item_000225,12.659110,2
+query_000109,best women's dresses,8,item_000250,12.659110,2
+query_000109,best women's dresses,9,item_000254,12.659110,2
+query_000109,best women's dresses,10,item_000263,12.659110,2
+query_000109,best women's dresses,11,item_000281,12.659110,2
+query_000109,best women's dresses,12,item_000292,12.659110,2
+query_000109,best women's dresses,13,item_000326,12.659110,2
+query_000109,best women's dresses,14,item_000330,12.659110,2
+query_000109,best women's dresses,15,item_000378,12.659110,2
+query_000109,best women's dresses,16,item_000388,12.659110,2
+query_000109,best women's dresses,17,item_000396,12.659110,2
+query_000109,best women's dresses,18,item_000412,12.659110,2
+query_000109,best women's dresses,19,item_000433,12.659110,2
+query_000109,best women's dresses,20,item_000467,12.659110,2
+query_000110,QuantumTech smartphones review,1,item_000020,4.036109,2
+query_000110,QuantumTech smartphones review,2,item_000102,4.036109,2
+query_000110,QuantumTech smartphones review,3,item_000112,4.036109,2
+query_000110,QuantumTech smartphones review,4,item_000209,4.036109,2
+query_000110,QuantumTech smartphones review,5,item_000212,4.036109,2
+query_000110,QuantumTech smartphones review,6,item_000223,4.036109,2
+query_000110,QuantumTech smartphones review,7,item_000275,4.036109,2
+query_000110,QuantumTech smartphones review,8,item_000299,4.036109,2
+query_000110,QuantumTech smartphones review,9,item_000310,4.036109,2
+query_000110,QuantumTech smartphones review,10,item_000323,4.036109,2
+query_000110,QuantumTech smartphones review,11,item_000334,4.036109,2
+query_000110,QuantumTech smartphones review,12,item_000343,4.036109,2
+query_000110,QuantumTech smartphones review,13,item_000344,4.036109,2
+query_000110,QuantumTech smartphones review,14,item_000346,4.036109,2
+query_000110,QuantumTech smartphones review,15,item_000352,4.036109,2
+query_000110,QuantumTech smartphones review,16,item_000355,4.036109,2
+query_000110,QuantumTech smartphones review,17,item_000360,4.036109,2
+query_000110,QuantumTech smartphones review,18,item_000362,4.036109,2
+query_000110,QuantumTech smartphones review,19,item_000373,4.036109,2
+query_000110,QuantumTech smartphones review,20,item_000385,4.036109,2
+query_000112,affordable wearables for everyday use,1,item_000005,5.657967,1
+query_000112,affordable wearables for everyday use,2,item_000487,5.657967,0
+query_000112,affordable wearables for everyday use,3,item_000065,5.528050,0
+query_000112,affordable wearables for everyday use,4,item_000405,5.528050,0
+query_000112,affordable wearables for everyday use,5,item_000304,5.286780,0
+query_000112,affordable wearables for everyday use,6,item_000029,5.174494,0
+query_000112,affordable wearables for everyday use,7,item_000318,5.174494,0
+query_000112,affordable wearables for everyday use,8,item_000082,4.964643,0
+query_000112,affordable wearables for everyday use,9,item_000177,4.964643,0
+query_000112,affordable wearables for everyday use,10,item_000361,4.964643,0
+query_000112,affordable wearables for everyday use,11,item_000102,4.359151,1
+query_000112,affordable wearables for everyday use,12,item_000117,4.359151,0
+query_000112,affordable wearables for everyday use,13,item_000217,4.359151,0
+query_000112,affordable wearables for everyday use,14,item_000228,4.359151,0
+query_000112,affordable wearables for everyday use,15,item_000299,4.359151,1
+query_000112,affordable wearables for everyday use,16,item_000310,4.359151,1
+query_000112,affordable wearables for everyday use,17,item_000344,4.359151,1
+query_000112,affordable wearables for everyday use,18,item_000121,4.325944,0
+query_000112,affordable wearables for everyday use,19,item_000337,4.325944,1
+query_000112,affordable wearables for everyday use,20,item_000015,4.229293,2
+query_000113,best comics,1,item_000023,4.036109,2
+query_000113,best comics,2,item_000043,4.036109,2
+query_000113,best comics,3,item_000117,4.036109,2
+query_000113,best comics,4,item_000137,4.036109,2
+query_000113,best comics,5,item_000155,4.036109,2
+query_000113,best comics,6,item_000165,4.036109,2
+query_000113,best comics,7,item_000197,4.036109,2
+query_000113,best comics,8,item_000201,4.036109,2
+query_000113,best comics,9,item_000217,4.036109,2
+query_000113,best comics,10,item_000228,4.036109,2
+query_000113,best comics,11,item_000251,4.036109,2
+query_000113,best comics,12,item_000295,4.036109,2
+query_000113,best comics,13,item_000328,4.036109,2
+query_000113,best comics,14,item_000341,4.036109,2
+query_000113,best comics,15,item_000372,4.036109,2
+query_000113,best comics,16,item_000429,4.036109,2
+query_000113,best comics,17,item_000447,4.036109,2
+query_000113,best comics,18,item_000458,4.036109,2
+query_000113,best comics,19,item_000481,4.036109,2
+query_000113,best comics,20,item_000004,3.998220,2
+query_000115,FunCraft Outdoor Toys,1,item_000028,3.686741,2
+query_000115,FunCraft Outdoor Toys,2,item_000120,3.686741,2
+query_000115,FunCraft Outdoor Toys,3,item_000141,3.686741,2
+query_000115,FunCraft Outdoor Toys,4,item_000163,3.686741,2
+query_000115,FunCraft Outdoor Toys,5,item_000285,3.686741,2
+query_000115,FunCraft Outdoor Toys,6,item_000315,3.686741,2
+query_000115,FunCraft Outdoor Toys,7,item_000390,3.686741,2
+query_000115,FunCraft Outdoor Toys,8,item_000427,3.686741,2
+query_000115,FunCraft Outdoor Toys,9,item_000448,3.686741,2
+query_000115,FunCraft Outdoor Toys,10,item_000454,3.686741,2
+query_000115,FunCraft Outdoor Toys,11,item_000021,3.655102,2
+query_000115,FunCraft Outdoor Toys,12,item_000059,3.655102,2
+query_000115,FunCraft Outdoor Toys,13,item_000124,3.655102,2
+query_000115,FunCraft Outdoor Toys,14,item_000222,3.655102,2
+query_000115,FunCraft Outdoor Toys,15,item_000227,3.655102,2
+query_000115,FunCraft Outdoor Toys,16,item_000245,3.655102,2
+query_000115,FunCraft Outdoor Toys,17,item_000248,3.655102,2
+query_000115,FunCraft Outdoor Toys,18,item_000300,3.655102,2
+query_000115,FunCraft Outdoor Toys,19,item_000370,3.655102,2
+query_000115,FunCraft Outdoor Toys,20,item_000392,3.655102,2
+query_000120,affordable puzzles for everyday use,1,item_000005,5.657967,0
+query_000120,affordable puzzles for everyday use,2,item_000487,5.657967,0
+query_000120,affordable puzzles for everyday use,3,item_000065,5.528050,0
+query_000120,affordable puzzles for everyday use,4,item_000405,5.528050,0
+query_000120,affordable puzzles for everyday use,5,item_000304,5.286780,0
+query_000120,affordable puzzles for everyday use,6,item_000029,5.174494,1
+query_000120,affordable puzzles for everyday use,7,item_000318,5.174494,1
+query_000120,affordable puzzles for everyday use,8,item_000082,4.964643,0
+query_000120,affordable puzzles for everyday use,9,item_000177,4.964643,0
+query_000120,affordable puzzles for everyday use,10,item_000361,4.964643,0
+query_000120,affordable puzzles for everyday use,11,item_000102,4.359151,0
+query_000120,affordable puzzles for everyday use,12,item_000117,4.359151,0
+query_000120,affordable puzzles for everyday use,13,item_000217,4.359151,0
+query_000120,affordable puzzles for everyday use,14,item_000228,4.359151,0
+query_000120,affordable puzzles for everyday use,15,item_000299,4.359151,0
+query_000120,affordable puzzles for everyday use,16,item_000310,4.359151,0
+query_000120,affordable puzzles for everyday use,17,item_000344,4.359151,0
+query_000120,affordable puzzles for everyday use,18,item_000121,4.325944,0
+query_000120,affordable puzzles for everyday use,19,item_000337,4.325944,0
+query_000120,affordable puzzles for everyday use,20,item_000015,4.229293,0
+query_000123,TrailBlaze Women's Dresses,1,item_000063,12.659110,2
+query_000123,TrailBlaze Women's Dresses,2,item_000080,12.659110,2
+query_000123,TrailBlaze Women's Dresses,3,item_000099,12.659110,2
+query_000123,TrailBlaze Women's Dresses,4,item_000107,12.659110,2
+query_000123,TrailBlaze Women's Dresses,5,item_000149,12.659110,2
+query_000123,TrailBlaze Women's Dresses,6,item_000206,12.659110,2
+query_000123,TrailBlaze Women's Dresses,7,item_000225,12.659110,2
+query_000123,TrailBlaze Women's Dresses,8,item_000250,12.659110,2
+query_000123,TrailBlaze Women's Dresses,9,item_000254,12.659110,2
+query_000123,TrailBlaze Women's Dresses,10,item_000263,12.659110,2
+query_000123,TrailBlaze Women's Dresses,11,item_000281,12.659110,2
+query_000123,TrailBlaze Women's Dresses,12,item_000292,12.659110,2
+query_000123,TrailBlaze Women's Dresses,13,item_000326,12.659110,2
+query_000123,TrailBlaze Women's Dresses,14,item_000330,12.659110,2
+query_000123,TrailBlaze Women's Dresses,15,item_000378,12.659110,2
+query_000123,TrailBlaze Women's Dresses,16,item_000388,12.659110,2
+query_000123,TrailBlaze Women's Dresses,17,item_000396,12.659110,2
+query_000123,TrailBlaze Women's Dresses,18,item_000412,12.659110,2
+query_000123,TrailBlaze Women's Dresses,19,item_000433,12.659110,2
+query_000123,TrailBlaze Women's Dresses,20,item_000467,12.659110,2
+query_000124,best electronics,1,item_000024,3.998220,0
+query_000124,best electronics,2,item_000072,3.998220,0
+query_000124,best electronics,3,item_000073,3.998220,0
+query_000124,best electronics,4,item_000075,3.998220,0
+query_000124,best electronics,5,item_000088,3.998220,0
+query_000124,best electronics,6,item_000093,3.998220,0
+query_000124,best electronics,7,item_000096,3.998220,0
+query_000124,best electronics,8,item_000109,3.998220,0
+query_000124,best electronics,9,item_000150,3.998220,0
+query_000124,best electronics,10,item_000180,3.998220,0
+query_000124,best electronics,11,item_000208,3.998220,0
+query_000124,best electronics,12,item_000210,3.998220,0
+query_000124,best electronics,13,item_000235,3.998220,0
+query_000124,best electronics,14,item_000247,3.998220,0
+query_000124,best electronics,15,item_000283,3.998220,0
+query_000124,best electronics,16,item_000321,3.998220,0
+query_000124,best electronics,17,item_000337,3.998220,0
+query_000124,best electronics,18,item_000410,3.998220,0
+query_000124,best electronics,19,item_000472,3.998220,0
+query_000124,best electronics,20,item_000020,3.515122,0
+query_000126,PlayWorld Outdoor Toys,1,item_000028,3.686741,2
+query_000126,PlayWorld Outdoor Toys,2,item_000120,3.686741,2
+query_000126,PlayWorld Outdoor Toys,3,item_000141,3.686741,2
+query_000126,PlayWorld Outdoor Toys,4,item_000163,3.686741,2
+query_000126,PlayWorld Outdoor Toys,5,item_000285,3.686741,2
+query_000126,PlayWorld Outdoor Toys,6,item_000315,3.686741,2
+query_000126,PlayWorld Outdoor Toys,7,item_000390,3.686741,2
+query_000126,PlayWorld Outdoor Toys,8,item_000427,3.686741,2
+query_000126,PlayWorld Outdoor Toys,9,item_000448,3.686741,2
+query_000126,PlayWorld Outdoor Toys,10,item_000454,3.686741,2
+query_000126,PlayWorld Outdoor Toys,11,item_000021,3.655102,2
+query_000126,PlayWorld Outdoor Toys,12,item_000059,3.655102,2
+query_000126,PlayWorld Outdoor Toys,13,item_000124,3.655102,2
+query_000126,PlayWorld Outdoor Toys,14,item_000222,3.655102,2
+query_000126,PlayWorld Outdoor Toys,15,item_000227,3.655102,2
+query_000126,PlayWorld Outdoor Toys,16,item_000245,3.655102,2
+query_000126,PlayWorld Outdoor Toys,17,item_000248,3.655102,2
+query_000126,PlayWorld Outdoor Toys,18,item_000300,3.655102,2
+query_000126,PlayWorld Outdoor Toys,19,item_000370,3.655102,2
+query_000126,PlayWorld Outdoor Toys,20,item_000392,3.655102,2
+query_000128,RoadMaster Electronics,1,item_000024,3.998220,0
+query_000128,RoadMaster Electronics,2,item_000072,3.998220,0
+query_000128,RoadMaster Electronics,3,item_000073,3.998220,0
+query_000128,RoadMaster Electronics,4,item_000075,3.998220,0
+query_000128,RoadMaster Electronics,5,item_000088,3.998220,0
+query_000128,RoadMaster Electronics,6,item_000093,3.998220,0
+query_000128,RoadMaster Electronics,7,item_000096,3.998220,0
+query_000128,RoadMaster Electronics,8,item_000109,3.998220,0
+query_000128,RoadMaster Electronics,9,item_000150,3.998220,0
+query_000128,RoadMaster Electronics,10,item_000180,3.998220,0
+query_000128,RoadMaster Electronics,11,item_000208,3.998220,0
+query_000128,RoadMaster Electronics,12,item_000210,3.998220,0
+query_000128,RoadMaster Electronics,13,item_000235,3.998220,0
+query_000128,RoadMaster Electronics,14,item_000247,3.998220,0
+query_000128,RoadMaster Electronics,15,item_000283,3.998220,0
+query_000128,RoadMaster Electronics,16,item_000321,3.998220,0
+query_000128,RoadMaster Electronics,17,item_000337,3.998220,0
+query_000128,RoadMaster Electronics,18,item_000410,3.998220,0
+query_000128,RoadMaster Electronics,19,item_000472,3.998220,0
+query_000128,RoadMaster Electronics,20,item_000020,3.515122,0
+query_000130,ChefElite storage review,1,item_000048,4.686266,2
+query_000130,ChefElite storage review,2,item_000061,4.686266,2
+query_000130,ChefElite storage review,3,item_000067,4.686266,2
+query_000130,ChefElite storage review,4,item_000069,4.686266,2
+query_000130,ChefElite storage review,5,item_000105,4.686266,2
+query_000130,ChefElite storage review,6,item_000151,4.686266,2
+query_000130,ChefElite storage review,7,item_000207,4.686266,2
+query_000130,ChefElite storage review,8,item_000221,4.686266,2
+query_000130,ChefElite storage review,9,item_000232,4.686266,2
+query_000130,ChefElite storage review,10,item_000270,4.686266,2
+query_000130,ChefElite storage review,11,item_000329,4.686266,2
+query_000130,ChefElite storage review,12,item_000349,4.686266,2
+query_000130,ChefElite storage review,13,item_000371,4.686266,2
+query_000130,ChefElite storage review,14,item_000397,4.686266,2
+query_000130,ChefElite storage review,15,item_000049,4.660626,2
+query_000130,ChefElite storage review,16,item_000055,4.660626,2
+query_000130,ChefElite storage review,17,item_000057,4.660626,2
+query_000130,ChefElite storage review,18,item_000065,4.660626,2
+query_000130,ChefElite storage review,19,item_000191,4.660626,2
+query_000130,ChefElite storage review,20,item_000199,4.660626,2
+query_000131,best board games,1,item_000028,3.686741,2
+query_000131,best board games,2,item_000120,3.686741,2
+query_000131,best board games,3,item_000141,3.686741,2
+query_000131,best board games,4,item_000163,3.686741,2
+query_000131,best board games,5,item_000285,3.686741,2
+query_000131,best board games,6,item_000315,3.686741,2
+query_000131,best board games,7,item_000390,3.686741,2
+query_000131,best board games,8,item_000427,3.686741,2
+query_000131,best board games,9,item_000448,3.686741,2
+query_000131,best board games,10,item_000454,3.686741,2
+query_000131,best board games,11,item_000021,3.655102,2
+query_000131,best board games,12,item_000059,3.655102,2
+query_000131,best board games,13,item_000124,3.655102,2
+query_000131,best board games,14,item_000222,3.655102,2
+query_000131,best board games,15,item_000227,3.655102,2
+query_000131,best board games,16,item_000245,3.655102,2
+query_000131,best board games,17,item_000248,3.655102,2
+query_000131,best board games,18,item_000300,3.655102,2
+query_000131,best board games,19,item_000370,3.655102,2
+query_000131,best board games,20,item_000392,3.655102,2
+query_000132,KidGenius Action Figures,1,item_000032,8.373304,2
+query_000132,KidGenius Action Figures,2,item_000034,8.373304,2
+query_000132,KidGenius Action Figures,3,item_000044,8.373304,2
+query_000132,KidGenius Action Figures,4,item_000054,8.373304,2
+query_000132,KidGenius Action Figures,5,item_000074,8.373304,2
+query_000132,KidGenius Action Figures,6,item_000091,8.373304,2
+query_000132,KidGenius Action Figures,7,item_000106,8.373304,2
+query_000132,KidGenius Action Figures,8,item_000115,8.373304,2
+query_000132,KidGenius Action Figures,9,item_000142,8.373304,2
+query_000132,KidGenius Action Figures,10,item_000145,8.373304,2
+query_000132,KidGenius Action Figures,11,item_000311,8.373304,2
+query_000132,KidGenius Action Figures,12,item_000350,8.373304,2
+query_000132,KidGenius Action Figures,13,item_000375,8.373304,2
+query_000132,KidGenius Action Figures,14,item_000386,8.373304,2
+query_000132,KidGenius Action Figures,15,item_000432,8.373304,2
+query_000132,KidGenius Action Figures,16,item_000442,8.373304,2
+query_000132,KidGenius Action Figures,17,item_000465,8.373304,2
+query_000132,KidGenius Action Figures,18,item_000475,8.373304,2
+query_000132,KidGenius Action Figures,19,item_000496,8.373304,2
+query_000132,KidGenius Action Figures,20,item_000021,8.266282,3
+query_000133,affordable headphones for everyday use,1,item_000005,5.657967,1
+query_000133,affordable headphones for everyday use,2,item_000487,5.657967,0
+query_000133,affordable headphones for everyday use,3,item_000065,5.528050,0
+query_000133,affordable headphones for everyday use,4,item_000405,5.528050,0
+query_000133,affordable headphones for everyday use,5,item_000304,5.286780,0
+query_000133,affordable headphones for everyday use,6,item_000029,5.174494,0
+query_000133,affordable headphones for everyday use,7,item_000318,5.174494,0
+query_000133,affordable headphones for everyday use,8,item_000082,4.964643,0
+query_000133,affordable headphones for everyday use,9,item_000177,4.964643,0
+query_000133,affordable headphones for everyday use,10,item_000361,4.964643,0
+query_000133,affordable headphones for everyday use,11,item_000102,4.359151,1
+query_000133,affordable headphones for everyday use,12,item_000117,4.359151,0
+query_000133,affordable headphones for everyday use,13,item_000217,4.359151,0
+query_000133,affordable headphones for everyday use,14,item_000228,4.359151,0
+query_000133,affordable headphones for everyday use,15,item_000299,4.359151,1
+query_000133,affordable headphones for everyday use,16,item_000310,4.359151,1
+query_000133,affordable headphones for everyday use,17,item_000344,4.359151,1
+query_000133,affordable headphones for everyday use,18,item_000121,4.325944,0
+query_000133,affordable headphones for everyday use,19,item_000337,4.325944,1
+query_000133,affordable headphones for everyday use,20,item_000015,4.229293,2
+query_000135,best comics,1,item_000023,4.036109,2
+query_000135,best comics,2,item_000043,4.036109,2
+query_000135,best comics,3,item_000117,4.036109,2
+query_000135,best comics,4,item_000137,4.036109,2
+query_000135,best comics,5,item_000155,4.036109,2
+query_000135,best comics,6,item_000165,4.036109,2
+query_000135,best comics,7,item_000197,4.036109,2
+query_000135,best comics,8,item_000201,4.036109,2
+query_000135,best comics,9,item_000217,4.036109,2
+query_000135,best comics,10,item_000228,4.036109,2
+query_000135,best comics,11,item_000251,4.036109,2
+query_000135,best comics,12,item_000295,4.036109,2
+query_000135,best comics,13,item_000328,4.036109,2
+query_000135,best comics,14,item_000341,4.036109,2
+query_000135,best comics,15,item_000372,4.036109,2
+query_000135,best comics,16,item_000429,4.036109,2
+query_000135,best comics,17,item_000447,4.036109,2
+query_000135,best comics,18,item_000458,4.036109,2
+query_000135,best comics,19,item_000481,4.036109,2
+query_000135,best comics,20,item_000004,3.998220,2
+query_000137,PenPoint Press Comics,1,item_000023,4.036109,2
+query_000137,PenPoint Press Comics,2,item_000043,4.036109,2
+query_000137,PenPoint Press Comics,3,item_000117,4.036109,2
+query_000137,PenPoint Press Comics,4,item_000137,4.036109,2
+query_000137,PenPoint Press Comics,5,item_000155,4.036109,2
+query_000137,PenPoint Press Comics,6,item_000165,4.036109,2
+query_000137,PenPoint Press Comics,7,item_000197,4.036109,2
+query_000137,PenPoint Press Comics,8,item_000201,4.036109,2
+query_000137,PenPoint Press Comics,9,item_000217,4.036109,2
+query_000137,PenPoint Press Comics,10,item_000228,4.036109,2
+query_000137,PenPoint Press Comics,11,item_000251,4.036109,2
+query_000137,PenPoint Press Comics,12,item_000295,4.036109,2
+query_000137,PenPoint Press Comics,13,item_000328,4.036109,2
+query_000137,PenPoint Press Comics,14,item_000341,4.036109,2
+query_000137,PenPoint Press Comics,15,item_000372,4.036109,2
+query_000137,PenPoint Press Comics,16,item_000429,4.036109,2
+query_000137,PenPoint Press Comics,17,item_000447,4.036109,2
+query_000137,PenPoint Press Comics,18,item_000458,4.036109,2
+query_000137,PenPoint Press Comics,19,item_000481,4.036109,2
+query_000137,PenPoint Press Comics,20,item_000004,3.998220,3
+query_000138,RoadMaster Oils & Fluids,1,item_000011,8.483412,3
+query_000138,RoadMaster Oils & Fluids,2,item_000071,8.483412,3
+query_000138,RoadMaster Oils & Fluids,3,item_000128,8.483412,3
+query_000138,RoadMaster Oils & Fluids,4,item_000143,8.483412,3
+query_000138,RoadMaster Oils & Fluids,5,item_000171,8.483412,3
+query_000138,RoadMaster Oils & Fluids,6,item_000178,8.483412,3
+query_000138,RoadMaster Oils & Fluids,7,item_000184,8.483412,3
+query_000138,RoadMaster Oils & Fluids,8,item_000186,8.483412,3
+query_000138,RoadMaster Oils & Fluids,9,item_000192,8.483412,3
+query_000138,RoadMaster Oils & Fluids,10,item_000268,8.483412,3
+query_000138,RoadMaster Oils & Fluids,11,item_000278,8.483412,3
+query_000138,RoadMaster Oils & Fluids,12,item_000288,8.483412,3
+query_000138,RoadMaster Oils & Fluids,13,item_000296,8.483412,3
+query_000138,RoadMaster Oils & Fluids,14,item_000342,8.483412,3
+query_000138,RoadMaster Oils & Fluids,15,item_000348,8.483412,3
+query_000138,RoadMaster Oils & Fluids,16,item_000363,8.483412,3
+query_000138,RoadMaster Oils & Fluids,17,item_000406,8.483412,3
+query_000138,RoadMaster Oils & Fluids,18,item_000444,8.483412,3
+query_000138,RoadMaster Oils & Fluids,19,item_000477,8.483412,3
+query_000138,RoadMaster Oils & Fluids,20,item_000489,8.483412,3
+query_000143,affordable air quality for everyday use,1,item_000368,11.339783,3
+query_000143,affordable air quality for everyday use,2,item_000470,11.339783,3
+query_000143,affordable air quality for everyday use,3,item_000101,8.496505,3
+query_000143,affordable air quality for everyday use,4,item_000110,8.496505,3
+query_000143,affordable air quality for everyday use,5,item_000147,8.496505,3
+query_000143,affordable air quality for everyday use,6,item_000267,8.496505,3
+query_000143,affordable air quality for everyday use,7,item_000309,8.496505,3
+query_000143,affordable air quality for everyday use,8,item_000331,8.496505,3
+query_000143,affordable air quality for everyday use,9,item_000353,8.496505,3
+query_000143,affordable air quality for everyday use,10,item_000483,8.496505,3
+query_000143,affordable air quality for everyday use,11,item_000037,7.262323,3
+query_000143,affordable air quality for everyday use,12,item_000042,7.262323,3
+query_000143,affordable air quality for everyday use,13,item_000078,7.262323,3
+query_000143,affordable air quality for everyday use,14,item_000084,7.262323,3
+query_000143,affordable air quality for everyday use,15,item_000097,7.262323,3
+query_000143,affordable air quality for everyday use,16,item_000119,7.262323,3
+query_000143,affordable air quality for everyday use,17,item_000140,7.262323,3
+query_000143,affordable air quality for everyday use,18,item_000154,7.262323,3
+query_000143,affordable air quality for everyday use,19,item_000164,7.262323,3
+query_000143,affordable air quality for everyday use,20,item_000260,7.262323,3
+query_000147,affordable educational for everyday use,1,item_000005,5.657967,0
+query_000147,affordable educational for everyday use,2,item_000487,5.657967,0
+query_000147,affordable educational for everyday use,3,item_000065,5.528050,0
+query_000147,affordable educational for everyday use,4,item_000405,5.528050,0
+query_000147,affordable educational for everyday use,5,item_000304,5.286780,0
+query_000147,affordable educational for everyday use,6,item_000029,5.174494,1
+query_000147,affordable educational for everyday use,7,item_000318,5.174494,1
+query_000147,affordable educational for everyday use,8,item_000082,4.964643,0
+query_000147,affordable educational for everyday use,9,item_000177,4.964643,0
+query_000147,affordable educational for everyday use,10,item_000361,4.964643,0
+query_000147,affordable educational for everyday use,11,item_000102,4.359151,0
+query_000147,affordable educational for everyday use,12,item_000117,4.359151,0
+query_000147,affordable educational for everyday use,13,item_000217,4.359151,0
+query_000147,affordable educational for everyday use,14,item_000228,4.359151,0
+query_000147,affordable educational for everyday use,15,item_000299,4.359151,0
+query_000147,affordable educational for everyday use,16,item_000310,4.359151,0
+query_000147,affordable educational for everyday use,17,item_000344,4.359151,0
+query_000147,affordable educational for everyday use,18,item_000121,4.325944,0
+query_000147,affordable educational for everyday use,19,item_000337,4.325944,0
+query_000147,affordable educational for everyday use,20,item_000015,4.229293,0
+query_000150,affordable hair care for everyday use,1,item_000173,7.921897,2
+query_000150,affordable hair care for everyday use,2,item_000215,7.921897,2
+query_000150,affordable hair care for everyday use,3,item_000290,7.921897,2
+query_000150,affordable hair care for everyday use,4,item_000160,7.578563,1
+query_000150,affordable hair care for everyday use,5,item_000497,7.578563,1
+query_000150,affordable hair care for everyday use,6,item_000005,5.657967,0
+query_000150,affordable hair care for everyday use,7,item_000487,5.657967,0
+query_000150,affordable hair care for everyday use,8,item_000065,5.528050,0
+query_000150,affordable hair care for everyday use,9,item_000405,5.528050,0
+query_000150,affordable hair care for everyday use,10,item_000304,5.286780,0
+query_000150,affordable hair care for everyday use,11,item_000029,5.174494,0
+query_000150,affordable hair care for everyday use,12,item_000318,5.174494,0
+query_000150,affordable hair care for everyday use,13,item_000082,4.964643,0
+query_000150,affordable hair care for everyday use,14,item_000177,4.964643,0
+query_000150,affordable hair care for everyday use,15,item_000361,4.964643,0
+query_000150,affordable hair care for everyday use,16,item_000012,4.861187,1
+query_000150,affordable hair care for everyday use,17,item_000018,4.861187,1
+query_000150,affordable hair care for everyday use,18,item_000046,4.861187,1
+query_000150,affordable hair care for everyday use,19,item_000077,4.861187,1
+query_000150,affordable hair care for everyday use,20,item_000079,4.861187,1
+query_000151,affordable outdoor toys for everyday use,1,item_000029,8.337233,1
+query_000151,affordable outdoor toys for everyday use,2,item_000318,8.337233,1
+query_000151,affordable outdoor toys for everyday use,3,item_000141,7.735133,2
+query_000151,affordable outdoor toys for everyday use,4,item_000285,7.735133,2
+query_000151,affordable outdoor toys for everyday use,5,item_000315,7.735133,2
+query_000151,affordable outdoor toys for everyday use,6,item_000044,7.240198,1
+query_000151,affordable outdoor toys for everyday use,7,item_000375,7.240198,1
+query_000151,affordable outdoor toys for everyday use,8,item_000432,7.240198,1
+query_000151,affordable outdoor toys for everyday use,9,item_000005,5.657967,0
+query_000151,affordable outdoor toys for everyday use,10,item_000487,5.657967,0
+query_000151,affordable outdoor toys for everyday use,11,item_000065,5.528050,0
+query_000151,affordable outdoor toys for everyday use,12,item_000405,5.528050,0
+query_000151,affordable outdoor toys for everyday use,13,item_000304,5.286780,0
+query_000151,affordable outdoor toys for everyday use,14,item_000082,4.964643,0
+query_000151,affordable outdoor toys for everyday use,15,item_000177,4.964643,0
+query_000151,affordable outdoor toys for everyday use,16,item_000361,4.964643,0
+query_000151,affordable outdoor toys for everyday use,17,item_000108,4.618301,1
+query_000151,affordable outdoor toys for everyday use,18,item_000249,4.618301,1
+query_000151,affordable outdoor toys for everyday use,19,item_000302,4.618301,1
+query_000151,affordable outdoor toys for everyday use,20,item_000365,4.618301,1
+query_000152,FarmFresh spices review,1,item_000015,3.888706,2
+query_000152,FarmFresh spices review,2,item_000025,3.888706,2
+query_000152,FarmFresh spices review,3,item_000026,3.888706,2
+query_000152,FarmFresh spices review,4,item_000040,3.888706,2
+query_000152,FarmFresh spices review,5,item_000089,3.888706,2
+query_000152,FarmFresh spices review,6,item_000126,3.888706,2
+query_000152,FarmFresh spices review,7,item_000133,3.888706,2
+query_000152,FarmFresh spices review,8,item_000138,3.888706,2
+query_000152,FarmFresh spices review,9,item_000176,3.888706,2
+query_000152,FarmFresh spices review,10,item_000187,3.888706,2
+query_000152,FarmFresh spices review,11,item_000195,3.888706,2
+query_000152,FarmFresh spices review,12,item_000204,3.888706,2
+query_000152,FarmFresh spices review,13,item_000230,3.888706,2
+query_000152,FarmFresh spices review,14,item_000335,3.888706,2
+query_000152,FarmFresh spices review,15,item_000391,3.888706,2
+query_000152,FarmFresh spices review,16,item_000399,3.888706,2
+query_000152,FarmFresh spices review,17,item_000463,3.888706,2
+query_000152,FarmFresh spices review,18,item_000013,3.853523,2
+query_000152,FarmFresh spices review,19,item_000066,3.853523,2
+query_000152,FarmFresh spices review,20,item_000092,3.853523,2
+query_000153,affordable vitamins for everyday use,1,item_000005,5.657967,0
+query_000153,affordable vitamins for everyday use,2,item_000487,5.657967,0
+query_000153,affordable vitamins for everyday use,3,item_000065,5.528050,0
+query_000153,affordable vitamins for everyday use,4,item_000405,5.528050,0
+query_000153,affordable vitamins for everyday use,5,item_000304,5.286780,0
+query_000153,affordable vitamins for everyday use,6,item_000029,5.174494,0
+query_000153,affordable vitamins for everyday use,7,item_000318,5.174494,0
+query_000153,affordable vitamins for everyday use,8,item_000082,4.964643,0
+query_000153,affordable vitamins for everyday use,9,item_000177,4.964643,0
+query_000153,affordable vitamins for everyday use,10,item_000361,4.964643,0
+query_000153,affordable vitamins for everyday use,11,item_000102,4.359151,0
+query_000153,affordable vitamins for everyday use,12,item_000117,4.359151,0
+query_000153,affordable vitamins for everyday use,13,item_000217,4.359151,0
+query_000153,affordable vitamins for everyday use,14,item_000228,4.359151,0
+query_000153,affordable vitamins for everyday use,15,item_000299,4.359151,0
+query_000153,affordable vitamins for everyday use,16,item_000310,4.359151,0
+query_000153,affordable vitamins for everyday use,17,item_000344,4.359151,0
+query_000153,affordable vitamins for everyday use,18,item_000121,4.325944,0
+query_000153,affordable vitamins for everyday use,19,item_000337,4.325944,0
+query_000153,affordable vitamins for everyday use,20,item_000015,4.229293,0
+query_000154,affordable baking for everyday use,1,item_000005,5.657967,0
+query_000154,affordable baking for everyday use,2,item_000487,5.657967,0
+query_000154,affordable baking for everyday use,3,item_000065,5.528050,0
+query_000154,affordable baking for everyday use,4,item_000405,5.528050,0
+query_000154,affordable baking for everyday use,5,item_000304,5.286780,0
+query_000154,affordable baking for everyday use,6,item_000029,5.174494,0
+query_000154,affordable baking for everyday use,7,item_000318,5.174494,0
+query_000154,affordable baking for everyday use,8,item_000082,4.964643,0
+query_000154,affordable baking for everyday use,9,item_000177,4.964643,0
+query_000154,affordable baking for everyday use,10,item_000361,4.964643,0
+query_000154,affordable baking for everyday use,11,item_000102,4.359151,0
+query_000154,affordable baking for everyday use,12,item_000117,4.359151,0
+query_000154,affordable baking for everyday use,13,item_000217,4.359151,0
+query_000154,affordable baking for everyday use,14,item_000228,4.359151,0
+query_000154,affordable baking for everyday use,15,item_000299,4.359151,0
+query_000154,affordable baking for everyday use,16,item_000310,4.359151,0
+query_000154,affordable baking for everyday use,17,item_000344,4.359151,0
+query_000154,affordable baking for everyday use,18,item_000121,4.325944,0
+query_000154,affordable baking for everyday use,19,item_000337,4.325944,0
+query_000154,affordable baking for everyday use,20,item_000015,4.229293,1
+query_000156,best men's shirts,1,item_000063,4.547874,1
+query_000156,best men's shirts,2,item_000080,4.547874,1
+query_000156,best men's shirts,3,item_000099,4.547874,1
+query_000156,best men's shirts,4,item_000107,4.547874,1
+query_000156,best men's shirts,5,item_000149,4.547874,1
+query_000156,best men's shirts,6,item_000206,4.547874,1
+query_000156,best men's shirts,7,item_000225,4.547874,1
+query_000156,best men's shirts,8,item_000250,4.547874,1
+query_000156,best men's shirts,9,item_000254,4.547874,1
+query_000156,best men's shirts,10,item_000263,4.547874,1
+query_000156,best men's shirts,11,item_000281,4.547874,1
+query_000156,best men's shirts,12,item_000292,4.547874,1
+query_000156,best men's shirts,13,item_000326,4.547874,1
+query_000156,best men's shirts,14,item_000330,4.547874,1
+query_000156,best men's shirts,15,item_000378,4.547874,1
+query_000156,best men's shirts,16,item_000388,4.547874,1
+query_000156,best men's shirts,17,item_000396,4.547874,1
+query_000156,best men's shirts,18,item_000412,4.547874,1
+query_000156,best men's shirts,19,item_000433,4.547874,1
+query_000156,best men's shirts,20,item_000467,4.547874,1
+query_000158,EcoFresh cleaning review,1,item_000037,4.512491,2
+query_000158,EcoFresh cleaning review,2,item_000042,4.512491,2
+query_000158,EcoFresh cleaning review,3,item_000078,4.512491,2
+query_000158,EcoFresh cleaning review,4,item_000084,4.512491,2
+query_000158,EcoFresh cleaning review,5,item_000097,4.512491,2
+query_000158,EcoFresh cleaning review,6,item_000101,4.512491,2
+query_000158,EcoFresh cleaning review,7,item_000110,4.512491,2
+query_000158,EcoFresh cleaning review,8,item_000119,4.512491,2
+query_000158,EcoFresh cleaning review,9,item_000140,4.512491,2
+query_000158,EcoFresh cleaning review,10,item_000147,4.512491,2
+query_000158,EcoFresh cleaning review,11,item_000154,4.512491,2
+query_000158,EcoFresh cleaning review,12,item_000164,4.512491,2
+query_000158,EcoFresh cleaning review,13,item_000260,4.512491,2
+query_000158,EcoFresh cleaning review,14,item_000267,4.512491,2
+query_000158,EcoFresh cleaning review,15,item_000286,4.512491,2
+query_000158,EcoFresh cleaning review,16,item_000298,4.512491,2
+query_000158,EcoFresh cleaning review,17,item_000309,4.512491,2
+query_000158,EcoFresh cleaning review,18,item_000327,4.512491,2
+query_000158,EcoFresh cleaning review,19,item_000331,4.512491,2
+query_000158,EcoFresh cleaning review,20,item_000353,4.512491,2
+query_000160,affordable furniture for everyday use,1,item_000005,5.657967,0
+query_000160,affordable furniture for everyday use,2,item_000487,5.657967,0
+query_000160,affordable furniture for everyday use,3,item_000065,5.528050,1
+query_000160,affordable furniture for everyday use,4,item_000405,5.528050,0
+query_000160,affordable furniture for everyday use,5,item_000304,5.286780,0
+query_000160,affordable furniture for everyday use,6,item_000029,5.174494,0
+query_000160,affordable furniture for everyday use,7,item_000318,5.174494,0
+query_000160,affordable furniture for everyday use,8,item_000082,4.964643,0
+query_000160,affordable furniture for everyday use,9,item_000177,4.964643,0
+query_000160,affordable furniture for everyday use,10,item_000361,4.964643,0
+query_000160,affordable furniture for everyday use,11,item_000102,4.359151,0
+query_000160,affordable furniture for everyday use,12,item_000117,4.359151,0
+query_000160,affordable furniture for everyday use,13,item_000217,4.359151,0
+query_000160,affordable furniture for everyday use,14,item_000228,4.359151,0
+query_000160,affordable furniture for everyday use,15,item_000299,4.359151,0
+query_000160,affordable furniture for everyday use,16,item_000310,4.359151,0
+query_000160,affordable furniture for everyday use,17,item_000344,4.359151,0
+query_000160,affordable furniture for everyday use,18,item_000121,4.325944,0
+query_000160,affordable furniture for everyday use,19,item_000337,4.325944,0
+query_000160,affordable furniture for everyday use,20,item_000015,4.229293,0
+query_000161,GlowLab Hair Care,1,item_000009,8.345843,3
+query_000161,GlowLab Hair Care,2,item_000051,8.345843,3
+query_000161,GlowLab Hair Care,3,item_000068,8.345843,3
+query_000161,GlowLab Hair Care,4,item_000087,8.345843,3
+query_000161,GlowLab Hair Care,5,item_000148,8.345843,3
+query_000161,GlowLab Hair Care,6,item_000159,8.345843,3
+query_000161,GlowLab Hair Care,7,item_000173,8.345843,3
+query_000161,GlowLab Hair Care,8,item_000193,8.345843,3
+query_000161,GlowLab Hair Care,9,item_000213,8.345843,3
+query_000161,GlowLab Hair Care,10,item_000215,8.345843,3
+query_000161,GlowLab Hair Care,11,item_000234,8.345843,3
+query_000161,GlowLab Hair Care,12,item_000243,8.345843,3
+query_000161,GlowLab Hair Care,13,item_000257,8.345843,3
+query_000161,GlowLab Hair Care,14,item_000290,8.345843,3
+query_000161,GlowLab Hair Care,15,item_000403,8.345843,3
+query_000161,GlowLab Hair Care,16,item_000451,8.345843,3
+query_000161,GlowLab Hair Care,17,item_000476,8.345843,3
+query_000161,GlowLab Hair Care,18,item_000006,7.984536,2
+query_000161,GlowLab Hair Care,19,item_000098,7.984536,2
+query_000161,GlowLab Hair Care,20,item_000123,7.984536,2
+query_000162,NeonFit Men's Shirts,1,item_000063,4.547874,1
+query_000162,NeonFit Men's Shirts,2,item_000080,4.547874,1
+query_000162,NeonFit Men's Shirts,3,item_000099,4.547874,1
+query_000162,NeonFit Men's Shirts,4,item_000107,4.547874,1
+query_000162,NeonFit Men's Shirts,5,item_000149,4.547874,1
+query_000162,NeonFit Men's Shirts,6,item_000206,4.547874,1
+query_000162,NeonFit Men's Shirts,7,item_000225,4.547874,1
+query_000162,NeonFit Men's Shirts,8,item_000250,4.547874,1
+query_000162,NeonFit Men's Shirts,9,item_000254,4.547874,1
+query_000162,NeonFit Men's Shirts,10,item_000263,4.547874,1
+query_000162,NeonFit Men's Shirts,11,item_000281,4.547874,1
+query_000162,NeonFit Men's Shirts,12,item_000292,4.547874,1
+query_000162,NeonFit Men's Shirts,13,item_000326,4.547874,1
+query_000162,NeonFit Men's Shirts,14,item_000330,4.547874,1
+query_000162,NeonFit Men's Shirts,15,item_000378,4.547874,1
+query_000162,NeonFit Men's Shirts,16,item_000388,4.547874,1
+query_000162,NeonFit Men's Shirts,17,item_000396,4.547874,1
+query_000162,NeonFit Men's Shirts,18,item_000412,4.547874,1
+query_000162,NeonFit Men's Shirts,19,item_000433,4.547874,1
+query_000162,NeonFit Men's Shirts,20,item_000467,4.547874,1
+query_000165,FunCraft outdoor toys review,1,item_000028,3.686741,1
+query_000165,FunCraft outdoor toys review,2,item_000120,3.686741,1
+query_000165,FunCraft outdoor toys review,3,item_000141,3.686741,1
+query_000165,FunCraft outdoor toys review,4,item_000163,3.686741,1
+query_000165,FunCraft outdoor toys review,5,item_000285,3.686741,1
+query_000165,FunCraft outdoor toys review,6,item_000315,3.686741,1
+query_000165,FunCraft outdoor toys review,7,item_000390,3.686741,1
+query_000165,FunCraft outdoor toys review,8,item_000427,3.686741,1
+query_000165,FunCraft outdoor toys review,9,item_000448,3.686741,1
+query_000165,FunCraft outdoor toys review,10,item_000454,3.686741,1
+query_000165,FunCraft outdoor toys review,11,item_000021,3.655102,1
+query_000165,FunCraft outdoor toys review,12,item_000059,3.655102,1
+query_000165,FunCraft outdoor toys review,13,item_000124,3.655102,1
+query_000165,FunCraft outdoor toys review,14,item_000222,3.655102,1
+query_000165,FunCraft outdoor toys review,15,item_000227,3.655102,1
+query_000165,FunCraft outdoor toys review,16,item_000245,3.655102,1
+query_000165,FunCraft outdoor toys review,17,item_000248,3.655102,1
+query_000165,FunCraft outdoor toys review,18,item_000300,3.655102,1
+query_000165,FunCraft outdoor toys review,19,item_000370,3.655102,1
+query_000165,FunCraft outdoor toys review,20,item_000392,3.655102,1
+query_000166,affordable educational for everyday use,1,item_000005,5.657967,0
+query_000166,affordable educational for everyday use,2,item_000487,5.657967,0
+query_000166,affordable educational for everyday use,3,item_000065,5.528050,0
+query_000166,affordable educational for everyday use,4,item_000405,5.528050,0
+query_000166,affordable educational for everyday use,5,item_000304,5.286780,0
+query_000166,affordable educational for everyday use,6,item_000029,5.174494,1
+query_000166,affordable educational for everyday use,7,item_000318,5.174494,1
+query_000166,affordable educational for everyday use,8,item_000082,4.964643,0
+query_000166,affordable educational for everyday use,9,item_000177,4.964643,0
+query_000166,affordable educational for everyday use,10,item_000361,4.964643,0
+query_000166,affordable educational for everyday use,11,item_000102,4.359151,0
+query_000166,affordable educational for everyday use,12,item_000117,4.359151,0
+query_000166,affordable educational for everyday use,13,item_000217,4.359151,0
+query_000166,affordable educational for everyday use,14,item_000228,4.359151,0
+query_000166,affordable educational for everyday use,15,item_000299,4.359151,0
+query_000166,affordable educational for everyday use,16,item_000310,4.359151,0
+query_000166,affordable educational for everyday use,17,item_000344,4.359151,0
+query_000166,affordable educational for everyday use,18,item_000121,4.325944,0
+query_000166,affordable educational for everyday use,19,item_000337,4.325944,0
+query_000166,affordable educational for everyday use,20,item_000015,4.229293,0
+query_000167,affordable smartphones for everyday use,1,item_000005,9.656188,2
+query_000167,affordable smartphones for everyday use,2,item_000102,8.395260,2
+query_000167,affordable smartphones for everyday use,3,item_000299,8.395260,2
+query_000167,affordable smartphones for everyday use,4,item_000310,8.395260,2
+query_000167,affordable smartphones for everyday use,5,item_000344,8.395260,2
+query_000167,affordable smartphones for everyday use,6,item_000337,7.798082,2
+query_000167,affordable smartphones for everyday use,7,item_000060,5.657967,2
+query_000167,affordable smartphones for everyday use,8,item_000064,5.657967,2
+query_000167,affordable smartphones for everyday use,9,item_000190,5.657967,2
+query_000167,affordable smartphones for everyday use,10,item_000220,5.657967,2
+query_000167,affordable smartphones for everyday use,11,item_000240,5.657967,2
+query_000167,affordable smartphones for everyday use,12,item_000320,5.657967,2
+query_000167,affordable smartphones for everyday use,13,item_000419,5.657967,2
+query_000167,affordable smartphones for everyday use,14,item_000468,5.657967,2
+query_000167,affordable smartphones for everyday use,15,item_000487,5.657967,0
+query_000167,affordable smartphones for everyday use,16,item_000065,5.528050,0
+query_000167,affordable smartphones for everyday use,17,item_000405,5.528050,0
+query_000167,affordable smartphones for everyday use,18,item_000304,5.286780,0
+query_000167,affordable smartphones for everyday use,19,item_000029,5.174494,0
+query_000167,affordable smartphones for everyday use,20,item_000318,5.174494,0
+query_000169,affordable snacks for everyday use,1,item_000005,5.657967,0
+query_000169,affordable snacks for everyday use,2,item_000487,5.657967,0
+query_000169,affordable snacks for everyday use,3,item_000065,5.528050,0
+query_000169,affordable snacks for everyday use,4,item_000405,5.528050,0
+query_000169,affordable snacks for everyday use,5,item_000304,5.286780,0
+query_000169,affordable snacks for everyday use,6,item_000029,5.174494,0
+query_000169,affordable snacks for everyday use,7,item_000318,5.174494,0
+query_000169,affordable snacks for everyday use,8,item_000082,4.964643,0
+query_000169,affordable snacks for everyday use,9,item_000177,4.964643,0
+query_000169,affordable snacks for everyday use,10,item_000361,4.964643,0
+query_000169,affordable snacks for everyday use,11,item_000102,4.359151,0
+query_000169,affordable snacks for everyday use,12,item_000117,4.359151,0
+query_000169,affordable snacks for everyday use,13,item_000217,4.359151,0
+query_000169,affordable snacks for everyday use,14,item_000228,4.359151,0
+query_000169,affordable snacks for everyday use,15,item_000299,4.359151,0
+query_000169,affordable snacks for everyday use,16,item_000310,4.359151,0
+query_000169,affordable snacks for everyday use,17,item_000344,4.359151,0
+query_000169,affordable snacks for everyday use,18,item_000121,4.325944,0
+query_000169,affordable snacks for everyday use,19,item_000337,4.325944,0
+query_000169,affordable snacks for everyday use,20,item_000015,4.229293,1
+query_000177,affordable cameras for everyday use,1,item_000005,5.657967,1
+query_000177,affordable cameras for everyday use,2,item_000487,5.657967,0
+query_000177,affordable cameras for everyday use,3,item_000065,5.528050,0
+query_000177,affordable cameras for everyday use,4,item_000405,5.528050,0
+query_000177,affordable cameras for everyday use,5,item_000304,5.286780,0
+query_000177,affordable cameras for everyday use,6,item_000029,5.174494,0
+query_000177,affordable cameras for everyday use,7,item_000318,5.174494,0
+query_000177,affordable cameras for everyday use,8,item_000082,4.964643,0
+query_000177,affordable cameras for everyday use,9,item_000177,4.964643,0
+query_000177,affordable cameras for everyday use,10,item_000361,4.964643,0
+query_000177,affordable cameras for everyday use,11,item_000102,4.359151,1
+query_000177,affordable cameras for everyday use,12,item_000117,4.359151,0
+query_000177,affordable cameras for everyday use,13,item_000217,4.359151,0
+query_000177,affordable cameras for everyday use,14,item_000228,4.359151,0
+query_000177,affordable cameras for everyday use,15,item_000299,4.359151,1
+query_000177,affordable cameras for everyday use,16,item_000310,4.359151,1
+query_000177,affordable cameras for everyday use,17,item_000344,4.359151,1
+query_000177,affordable cameras for everyday use,18,item_000121,4.325944,0
+query_000177,affordable cameras for everyday use,19,item_000337,4.325944,1
+query_000177,affordable cameras for everyday use,20,item_000015,4.229293,2
+query_000182,PureBite spices review,1,item_000015,3.888706,2
+query_000182,PureBite spices review,2,item_000025,3.888706,2
+query_000182,PureBite spices review,3,item_000026,3.888706,2
+query_000182,PureBite spices review,4,item_000040,3.888706,2
+query_000182,PureBite spices review,5,item_000089,3.888706,2
+query_000182,PureBite spices review,6,item_000126,3.888706,2
+query_000182,PureBite spices review,7,item_000133,3.888706,2
+query_000182,PureBite spices review,8,item_000138,3.888706,2
+query_000182,PureBite spices review,9,item_000176,3.888706,2
+query_000182,PureBite spices review,10,item_000187,3.888706,2
+query_000182,PureBite spices review,11,item_000195,3.888706,2
+query_000182,PureBite spices review,12,item_000204,3.888706,2
+query_000182,PureBite spices review,13,item_000230,3.888706,2
+query_000182,PureBite spices review,14,item_000335,3.888706,2
+query_000182,PureBite spices review,15,item_000391,3.888706,2
+query_000182,PureBite spices review,16,item_000399,3.888706,2
+query_000182,PureBite spices review,17,item_000463,3.888706,2
+query_000182,PureBite spices review,18,item_000013,3.853523,2
+query_000182,PureBite spices review,19,item_000066,3.853523,2
+query_000182,PureBite spices review,20,item_000092,3.853523,2
+query_000183,DriveSafe tools & equipment review,1,item_000011,4.560812,3
+query_000183,DriveSafe tools & equipment review,2,item_000038,4.560812,3
+query_000183,DriveSafe tools & equipment review,3,item_000039,4.560812,3
+query_000183,DriveSafe tools & equipment review,4,item_000071,4.560812,3
+query_000183,DriveSafe tools & equipment review,5,item_000085,4.560812,3
+query_000183,DriveSafe tools & equipment review,6,item_000128,4.560812,3
+query_000183,DriveSafe tools & equipment review,7,item_000132,4.560812,3
+query_000183,DriveSafe tools & equipment review,8,item_000143,4.560812,3
+query_000183,DriveSafe tools & equipment review,9,item_000171,4.560812,3
+query_000183,DriveSafe tools & equipment review,10,item_000178,4.560812,3
+query_000183,DriveSafe tools & equipment review,11,item_000181,4.560812,3
+query_000183,DriveSafe tools & equipment review,12,item_000184,4.560812,3
+query_000183,DriveSafe tools & equipment review,13,item_000186,4.560812,3
+query_000183,DriveSafe tools & equipment review,14,item_000192,4.560812,3
+query_000183,DriveSafe tools & equipment review,15,item_000211,4.560812,3
+query_000183,DriveSafe tools & equipment review,16,item_000219,4.560812,3
+query_000183,DriveSafe tools & equipment review,17,item_000259,4.560812,3
+query_000183,DriveSafe tools & equipment review,18,item_000268,4.560812,3
+query_000183,DriveSafe tools & equipment review,19,item_000278,4.560812,3
+query_000183,DriveSafe tools & equipment review,20,item_000288,4.560812,3
+query_000184,best spices,1,item_000015,3.888706,2
+query_000184,best spices,2,item_000025,3.888706,2
+query_000184,best spices,3,item_000026,3.888706,2
+query_000184,best spices,4,item_000040,3.888706,2
+query_000184,best spices,5,item_000089,3.888706,2
+query_000184,best spices,6,item_000126,3.888706,2
+query_000184,best spices,7,item_000133,3.888706,2
+query_000184,best spices,8,item_000138,3.888706,2
+query_000184,best spices,9,item_000176,3.888706,2
+query_000184,best spices,10,item_000187,3.888706,2
+query_000184,best spices,11,item_000195,3.888706,2
+query_000184,best spices,12,item_000204,3.888706,2
+query_000184,best spices,13,item_000230,3.888706,2
+query_000184,best spices,14,item_000335,3.888706,2
+query_000184,best spices,15,item_000391,3.888706,2
+query_000184,best spices,16,item_000399,3.888706,2
+query_000184,best spices,17,item_000463,3.888706,2
+query_000184,best spices,18,item_000013,3.853523,2
+query_000184,best spices,19,item_000066,3.853523,2
+query_000184,best spices,20,item_000092,3.853523,2
+query_000185,PeakAscent Fitness Equipment,1,item_000008,4.686266,2
+query_000185,PeakAscent Fitness Equipment,2,item_000010,4.686266,2
+query_000185,PeakAscent Fitness Equipment,3,item_000033,4.686266,2
+query_000185,PeakAscent Fitness Equipment,4,item_000035,4.686266,2
+query_000185,PeakAscent Fitness Equipment,5,item_000050,4.686266,2
+query_000185,PeakAscent Fitness Equipment,6,item_000056,4.686266,2
+query_000185,PeakAscent Fitness Equipment,7,item_000058,4.686266,2
+query_000185,PeakAscent Fitness Equipment,8,item_000129,4.686266,2
+query_000185,PeakAscent Fitness Equipment,9,item_000130,4.686266,2
+query_000185,PeakAscent Fitness Equipment,10,item_000188,4.686266,2
+query_000185,PeakAscent Fitness Equipment,11,item_000239,4.686266,2
+query_000185,PeakAscent Fitness Equipment,12,item_000294,4.686266,2
+query_000185,PeakAscent Fitness Equipment,13,item_000314,4.686266,2
+query_000185,PeakAscent Fitness Equipment,14,item_000325,4.686266,2
+query_000185,PeakAscent Fitness Equipment,15,item_000336,4.686266,2
+query_000185,PeakAscent Fitness Equipment,16,item_000351,4.686266,2
+query_000185,PeakAscent Fitness Equipment,17,item_000357,4.686266,2
+query_000185,PeakAscent Fitness Equipment,18,item_000402,4.686266,2
+query_000185,PeakAscent Fitness Equipment,19,item_000450,4.686266,2
+query_000185,PeakAscent Fitness Equipment,20,item_000482,4.686266,2
+query_000186,FunCraft board games review,1,item_000028,3.686741,1
+query_000186,FunCraft board games review,2,item_000120,3.686741,1
+query_000186,FunCraft board games review,3,item_000141,3.686741,1
+query_000186,FunCraft board games review,4,item_000163,3.686741,1
+query_000186,FunCraft board games review,5,item_000285,3.686741,1
+query_000186,FunCraft board games review,6,item_000315,3.686741,1
+query_000186,FunCraft board games review,7,item_000390,3.686741,1
+query_000186,FunCraft board games review,8,item_000427,3.686741,1
+query_000186,FunCraft board games review,9,item_000448,3.686741,1
+query_000186,FunCraft board games review,10,item_000454,3.686741,1
+query_000186,FunCraft board games review,11,item_000021,3.655102,1
+query_000186,FunCraft board games review,12,item_000059,3.655102,1
+query_000186,FunCraft board games review,13,item_000124,3.655102,1
+query_000186,FunCraft board games review,14,item_000222,3.655102,1
+query_000186,FunCraft board games review,15,item_000227,3.655102,1
+query_000186,FunCraft board games review,16,item_000245,3.655102,1
+query_000186,FunCraft board games review,17,item_000248,3.655102,1
+query_000186,FunCraft board games review,18,item_000300,3.655102,1
+query_000186,FunCraft board games review,19,item_000370,3.655102,1
+query_000186,FunCraft board games review,20,item_000392,3.655102,1
+query_000187,affordable swimming for everyday use,1,item_000005,5.657967,0
+query_000187,affordable swimming for everyday use,2,item_000487,5.657967,0
+query_000187,affordable swimming for everyday use,3,item_000065,5.528050,0
+query_000187,affordable swimming for everyday use,4,item_000405,5.528050,1
+query_000187,affordable swimming for everyday use,5,item_000304,5.286780,0
+query_000187,affordable swimming for everyday use,6,item_000029,5.174494,0
+query_000187,affordable swimming for everyday use,7,item_000318,5.174494,0
+query_000187,affordable swimming for everyday use,8,item_000082,4.964643,0
+query_000187,affordable swimming for everyday use,9,item_000177,4.964643,0
+query_000187,affordable swimming for everyday use,10,item_000361,4.964643,0
+query_000187,affordable swimming for everyday use,11,item_000102,4.359151,0
+query_000187,affordable swimming for everyday use,12,item_000117,4.359151,0
+query_000187,affordable swimming for everyday use,13,item_000217,4.359151,0
+query_000187,affordable swimming for everyday use,14,item_000228,4.359151,0
+query_000187,affordable swimming for everyday use,15,item_000299,4.359151,0
+query_000187,affordable swimming for everyday use,16,item_000310,4.359151,0
+query_000187,affordable swimming for everyday use,17,item_000344,4.359151,0
+query_000187,affordable swimming for everyday use,18,item_000121,4.325944,0
+query_000187,affordable swimming for everyday use,19,item_000337,4.325944,0
+query_000187,affordable swimming for everyday use,20,item_000015,4.229293,0
+query_000188,CoreWave Smartphones,1,item_000020,4.036109,2
+query_000188,CoreWave Smartphones,2,item_000102,4.036109,2
+query_000188,CoreWave Smartphones,3,item_000112,4.036109,2
+query_000188,CoreWave Smartphones,4,item_000209,4.036109,2
+query_000188,CoreWave Smartphones,5,item_000212,4.036109,2
+query_000188,CoreWave Smartphones,6,item_000223,4.036109,2
+query_000188,CoreWave Smartphones,7,item_000275,4.036109,2
+query_000188,CoreWave Smartphones,8,item_000299,4.036109,2
+query_000188,CoreWave Smartphones,9,item_000310,4.036109,2
+query_000188,CoreWave Smartphones,10,item_000323,4.036109,2
+query_000188,CoreWave Smartphones,11,item_000334,4.036109,2
+query_000188,CoreWave Smartphones,12,item_000343,4.036109,2
+query_000188,CoreWave Smartphones,13,item_000344,4.036109,2
+query_000188,CoreWave Smartphones,14,item_000346,4.036109,2
+query_000188,CoreWave Smartphones,15,item_000352,4.036109,2
+query_000188,CoreWave Smartphones,16,item_000355,4.036109,2
+query_000188,CoreWave Smartphones,17,item_000360,4.036109,2
+query_000188,CoreWave Smartphones,18,item_000362,4.036109,2
+query_000188,CoreWave Smartphones,19,item_000373,4.036109,2
+query_000188,CoreWave Smartphones,20,item_000385,4.036109,2
+query_000190,AtlasBooks Comics,1,item_000023,8.774511,3
+query_000190,AtlasBooks Comics,2,item_000043,8.774511,3
+query_000190,AtlasBooks Comics,3,item_000117,8.774511,3
+query_000190,AtlasBooks Comics,4,item_000137,8.774511,3
+query_000190,AtlasBooks Comics,5,item_000155,8.774511,3
+query_000190,AtlasBooks Comics,6,item_000165,8.774511,3
+query_000190,AtlasBooks Comics,7,item_000197,8.774511,3
+query_000190,AtlasBooks Comics,8,item_000201,8.774511,3
+query_000190,AtlasBooks Comics,9,item_000217,8.774511,3
+query_000190,AtlasBooks Comics,10,item_000228,8.774511,3
+query_000190,AtlasBooks Comics,11,item_000251,8.774511,3
+query_000190,AtlasBooks Comics,12,item_000295,8.774511,3
+query_000190,AtlasBooks Comics,13,item_000328,8.774511,3
+query_000190,AtlasBooks Comics,14,item_000341,8.774511,3
+query_000190,AtlasBooks Comics,15,item_000372,8.774511,3
+query_000190,AtlasBooks Comics,16,item_000429,8.774511,3
+query_000190,AtlasBooks Comics,17,item_000447,8.774511,3
+query_000190,AtlasBooks Comics,18,item_000458,8.774511,3
+query_000190,AtlasBooks Comics,19,item_000481,8.774511,3
+query_000190,AtlasBooks Comics,20,item_000004,8.710411,3
+query_000192,ReadersGate children's books review,1,item_000063,4.547874,0
+query_000192,ReadersGate children's books review,2,item_000080,4.547874,0
+query_000192,ReadersGate children's books review,3,item_000099,4.547874,0
+query_000192,ReadersGate children's books review,4,item_000107,4.547874,0
+query_000192,ReadersGate children's books review,5,item_000149,4.547874,0
+query_000192,ReadersGate children's books review,6,item_000206,4.547874,0
+query_000192,ReadersGate children's books review,7,item_000225,4.547874,0
+query_000192,ReadersGate children's books review,8,item_000250,4.547874,0
+query_000192,ReadersGate children's books review,9,item_000254,4.547874,0
+query_000192,ReadersGate children's books review,10,item_000263,4.547874,0
+query_000192,ReadersGate children's books review,11,item_000281,4.547874,0
+query_000192,ReadersGate children's books review,12,item_000292,4.547874,0
+query_000192,ReadersGate children's books review,13,item_000326,4.547874,0
+query_000192,ReadersGate children's books review,14,item_000330,4.547874,0
+query_000192,ReadersGate children's books review,15,item_000378,4.547874,0
+query_000192,ReadersGate children's books review,16,item_000388,4.547874,0
+query_000192,ReadersGate children's books review,17,item_000396,4.547874,0
+query_000192,ReadersGate children's books review,18,item_000412,4.547874,0
+query_000192,ReadersGate children's books review,19,item_000433,4.547874,0
+query_000192,ReadersGate children's books review,20,item_000467,4.547874,0
+query_000193,UrbanStitch Women's Dresses,1,item_000063,12.659110,2
+query_000193,UrbanStitch Women's Dresses,2,item_000080,12.659110,2
+query_000193,UrbanStitch Women's Dresses,3,item_000099,12.659110,2
+query_000193,UrbanStitch Women's Dresses,4,item_000107,12.659110,2
+query_000193,UrbanStitch Women's Dresses,5,item_000149,12.659110,2
+query_000193,UrbanStitch Women's Dresses,6,item_000206,12.659110,2
+query_000193,UrbanStitch Women's Dresses,7,item_000225,12.659110,2
+query_000193,UrbanStitch Women's Dresses,8,item_000250,12.659110,2
+query_000193,UrbanStitch Women's Dresses,9,item_000254,12.659110,2
+query_000193,UrbanStitch Women's Dresses,10,item_000263,12.659110,2
+query_000193,UrbanStitch Women's Dresses,11,item_000281,12.659110,2
+query_000193,UrbanStitch Women's Dresses,12,item_000292,12.659110,2
+query_000193,UrbanStitch Women's Dresses,13,item_000326,12.659110,2
+query_000193,UrbanStitch Women's Dresses,14,item_000330,12.659110,2
+query_000193,UrbanStitch Women's Dresses,15,item_000378,12.659110,2
+query_000193,UrbanStitch Women's Dresses,16,item_000388,12.659110,2
+query_000193,UrbanStitch Women's Dresses,17,item_000396,12.659110,2
+query_000193,UrbanStitch Women's Dresses,18,item_000412,12.659110,2
+query_000193,UrbanStitch Women's Dresses,19,item_000433,12.659110,2
+query_000193,UrbanStitch Women's Dresses,20,item_000467,12.659110,2
+query_000196,affordable skincare for everyday use,1,item_000160,8.995269,3
+query_000196,affordable skincare for everyday use,2,item_000497,8.995269,3
+query_000196,affordable skincare for everyday use,3,item_000173,8.835246,3
+query_000196,affordable skincare for everyday use,4,item_000215,8.835246,3
+query_000196,affordable skincare for everyday use,5,item_000290,8.835246,3
+query_000196,affordable skincare for everyday use,6,item_000012,6.161142,2
+query_000196,affordable skincare for everyday use,7,item_000018,6.161142,2
+query_000196,affordable skincare for everyday use,8,item_000046,6.161142,2
+query_000196,affordable skincare for everyday use,9,item_000077,6.161142,2
+query_000196,affordable skincare for everyday use,10,item_000079,6.161142,2
+query_000196,affordable skincare for everyday use,11,item_000083,6.161142,2
+query_000196,affordable skincare for everyday use,12,item_000090,6.161142,2
+query_000196,affordable skincare for everyday use,13,item_000179,6.161142,2
+query_000196,affordable skincare for everyday use,14,item_000284,6.161142,2
+query_000196,affordable skincare for everyday use,15,item_000289,6.161142,2
+query_000196,affordable skincare for everyday use,16,item_000345,6.161142,2
+query_000196,affordable skincare for everyday use,17,item_000366,6.161142,2
+query_000196,affordable skincare for everyday use,18,item_000395,6.161142,2
+query_000196,affordable skincare for everyday use,19,item_000425,6.161142,2
+query_000196,affordable skincare for everyday use,20,item_000469,6.161142,2
+query_000198,PureBite Spices,1,item_000015,3.888706,2
+query_000198,PureBite Spices,2,item_000025,3.888706,2
+query_000198,PureBite Spices,3,item_000026,3.888706,2
+query_000198,PureBite Spices,4,item_000040,3.888706,2
+query_000198,PureBite Spices,5,item_000089,3.888706,2
+query_000198,PureBite Spices,6,item_000126,3.888706,2
+query_000198,PureBite Spices,7,item_000133,3.888706,2
+query_000198,PureBite Spices,8,item_000138,3.888706,2
+query_000198,PureBite Spices,9,item_000176,3.888706,2
+query_000198,PureBite Spices,10,item_000187,3.888706,2
+query_000198,PureBite Spices,11,item_000195,3.888706,2
+query_000198,PureBite Spices,12,item_000204,3.888706,2
+query_000198,PureBite Spices,13,item_000230,3.888706,2
+query_000198,PureBite Spices,14,item_000335,3.888706,2
+query_000198,PureBite Spices,15,item_000391,3.888706,2
+query_000198,PureBite Spices,16,item_000399,3.888706,2
+query_000198,PureBite Spices,17,item_000463,3.888706,2
+query_000198,PureBite Spices,18,item_000013,3.853523,2
+query_000198,PureBite Spices,19,item_000066,3.853523,2
+query_000198,PureBite Spices,20,item_000092,3.853523,2
+query_000199,EcoFresh Paper Goods,1,item_000037,4.512491,2
+query_000199,EcoFresh Paper Goods,2,item_000042,4.512491,2
+query_000199,EcoFresh Paper Goods,3,item_000078,4.512491,2
+query_000199,EcoFresh Paper Goods,4,item_000084,4.512491,2
+query_000199,EcoFresh Paper Goods,5,item_000097,4.512491,2
+query_000199,EcoFresh Paper Goods,6,item_000101,4.512491,2
+query_000199,EcoFresh Paper Goods,7,item_000110,4.512491,2
+query_000199,EcoFresh Paper Goods,8,item_000119,4.512491,2
+query_000199,EcoFresh Paper Goods,9,item_000140,4.512491,2
+query_000199,EcoFresh Paper Goods,10,item_000147,4.512491,2
+query_000199,EcoFresh Paper Goods,11,item_000154,4.512491,2
+query_000199,EcoFresh Paper Goods,12,item_000164,4.512491,2
+query_000199,EcoFresh Paper Goods,13,item_000260,4.512491,2
+query_000199,EcoFresh Paper Goods,14,item_000267,4.512491,2
+query_000199,EcoFresh Paper Goods,15,item_000286,4.512491,2
+query_000199,EcoFresh Paper Goods,16,item_000298,4.512491,2
+query_000199,EcoFresh Paper Goods,17,item_000309,4.512491,2
+query_000199,EcoFresh Paper Goods,18,item_000327,4.512491,2
+query_000199,EcoFresh Paper Goods,19,item_000331,4.512491,2
+query_000199,EcoFresh Paper Goods,20,item_000353,4.512491,2
+query_000200,affordable children's books for everyday use,1,item_000082,9.383500,0
+query_000200,affordable children's books for everyday use,2,item_000177,9.383500,0
+query_000200,affordable children's books for everyday use,3,item_000361,9.383500,0
+query_000200,affordable children's books for everyday use,4,item_000487,9.130105,1
+query_000200,affordable children's books for everyday use,5,item_000094,8.436212,0
+query_000200,affordable children's books for everyday use,6,item_000194,8.436212,0
+query_000200,affordable children's books for everyday use,7,item_000202,8.436212,0
+query_000200,affordable children's books for everyday use,8,item_000418,8.436212,0
+query_000200,affordable children's books for everyday use,9,item_000382,8.382480,0
+query_000200,affordable children's books for everyday use,10,item_000400,8.382480,0
+query_000200,affordable children's books for everyday use,11,item_000121,8.324165,1
+query_000200,affordable children's books for everyday use,12,item_000117,7.874272,1
+query_000200,affordable children's books for everyday use,13,item_000217,7.874272,1
+query_000200,affordable children's books for everyday use,14,item_000228,7.874272,1
+query_000200,affordable children's books for everyday use,15,item_000161,5.790074,0
+query_000200,affordable children's books for everyday use,16,item_000169,5.790074,0
+query_000200,affordable children's books for everyday use,17,item_000291,5.790074,0
+query_000200,affordable children's books for everyday use,18,item_000312,5.790074,0
+query_000200,affordable children's books for everyday use,19,item_000384,5.790074,0
+query_000200,affordable children's books for everyday use,20,item_000413,5.790074,0

@@ -1,0 +1,9 @@
+{
+  "candidate_k": 100,
+  "top_k_values": [5, 10, 20],
+  "relevance_threshold": 1,
+  "rrf_k": 60,
+  "bm25_weight": 0.5,
+  "semantic_weight": 0.5,
+  "score_normalization": "min_max"
+}

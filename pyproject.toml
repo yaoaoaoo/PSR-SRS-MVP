@@ -1,0 +1,80 @@
+[project]
+name = "psr-srs-mvp"
+version = "0.1.0"
+description = "E-commerce personalized search ranking & semantic retrieval — local MVP"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "wangwenyao" }]
+keywords = [
+    "search-ranking",
+    "semantic-retrieval",
+    "personalization",
+    "bm25",
+    "lsa",
+    "information-retrieval",
+    "mvp",
+    "synthetic-data",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: Microsoft :: Windows",
+]
+dependencies = [
+    "scikit-learn==1.9.0",
+]
+
+[project.urls]
+Repository = "https://github.com/owner/psr-srs-mvp"  # placeholder — update before release
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.5.0",
+    "mypy>=1.10",
+    "pytest>=7.0",
+]
+notebook = [
+    "jupyter",
+    "ipykernel",
+    "nbconvert",
+    "nbformat",
+    "nbclient",
+]
+release = [
+    "build",
+    "twine",
+]
+ml = [
+    "numpy>=1.26",
+    "scipy>=1.12",
+    "scikit-learn>=1.4",
+    "sentence-transformers>=2.7",
+    "rank-bm25>=0.2",
+]
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "SIM"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+warn_unreachable = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

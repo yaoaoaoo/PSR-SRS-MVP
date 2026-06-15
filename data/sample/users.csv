@@ -1,0 +1,101 @@
+user_id,preferred_categories,preferred_brands,price_preference,activity_level,is_cold_start,created_at
+user_000001,"[""Automotive""]","[""DriveSafe""]",mid_range,low,true,2026-03-29T13:23:07.629892+00:00
+user_000002,"[""Toys & Games"", ""Books"", ""Health & Household""]","[""FunCraft"", ""PenPoint Press"", ""EcoFresh""]",premium,low,true,2026-03-18T21:13:42.854600+00:00
+user_000003,"[""Sports & Outdoors"", ""Health & Household""]","[""ZenYoga"", ""PureCare""]",premium,low,true,2026-03-27T01:49:08.665500+00:00
+user_000004,"[""Books"", ""Sports & Outdoors""]","[""StoryWeave"", ""PeakAscent""]",mid_range,medium,true,2026-03-24T06:12:10.102087+00:00
+user_000005,"[""Books"", ""Home & Kitchen""]","[""BrightMinds"", ""CozyNest""]",budget,medium,true,2026-03-27T12:25:52.371961+00:00
+user_000006,"[""Home & Kitchen"", ""Books""]","[""BrightHome"", ""PenPoint Press""]",premium,medium,true,2026-03-21T01:26:27.213807+00:00
+user_000007,"[""Clothing""]","[""TrailBlaze""]",premium,high,true,2026-03-31T21:59:18.500301+00:00
+user_000008,"[""Books"", ""Beauty & Personal Care""]","[""BrightMinds"", ""SilkTouch""]",premium,low,true,2026-03-21T18:35:58.753826+00:00
+user_000009,"[""Books"", ""Beauty & Personal Care""]","[""BrightMinds"", ""PureBloom""]",mid_range,medium,true,2026-03-29T03:35:43.973325+00:00
+user_000010,"[""Beauty & Personal Care""]","[""PureBloom""]",mid_range,low,true,2026-03-18T20:58:25.514359+00:00
+user_000011,"[""Beauty & Personal Care"", ""Electronics"", ""Automotive""]","[""RadianceCo"", ""TechPro"", ""TurboEdge""]",budget,low,false,2026-02-15T20:29:10.764902+00:00
+user_000012,"[""Electronics"", ""Health & Household""]","[""TechPro"", ""WellnessPlus""]",premium,low,false,2026-02-20T08:51:00.029050+00:00
+user_000013,"[""Books"", ""Sports & Outdoors"", ""Automotive""]","[""BrightMinds"", ""PeakAscent"", ""RoadMaster""]",premium,high,false,2026-02-25T20:44:31.216334+00:00
+user_000014,"[""Clothing"", ""Home & Kitchen"", ""Grocery & Gourmet Food""]","[""EleganceWear"", ""CozyNest"", ""TasteHaven""]",budget,medium,false,2026-03-05T13:53:05.986179+00:00
+user_000015,"[""Books""]","[""ReadersGate""]",budget,high,false,2026-03-15T10:11:20.044913+00:00
+user_000016,"[""Sports & Outdoors"", ""Clothing"", ""Books""]","[""AquaSport"", ""NeonFit"", ""StoryWeave""]",mid_range,high,false,2026-01-25T18:03:00.004758+00:00
+user_000017,"[""Toys & Games""]","[""AdventureZone""]",premium,medium,false,2026-02-09T22:39:26.108871+00:00
+user_000018,"[""Home & Kitchen"", ""Books"", ""Sports & Outdoors""]","[""ChefElite"", ""StoryWeave"", ""TrailMaster""]",mid_range,medium,false,2026-01-18T07:32:00.822908+00:00
+user_000019,"[""Grocery & Gourmet Food""]","[""PureBite""]",premium,medium,false,2026-01-09T19:37:09.782370+00:00
+user_000020,"[""Electronics""]","[""CoreWave""]",budget,low,false,2026-02-09T14:01:00.787899+00:00
+user_000021,"[""Home & Kitchen"", ""Books""]","[""CozyNest"", ""AtlasBooks""]",premium,medium,false,2026-03-11T06:55:22.285984+00:00
+user_000022,"[""Automotive"", ""Electronics"", ""Clothing""]","[""AutoGuard"", ""QuantumTech"", ""NeonFit""]",budget,low,false,2026-03-16T00:23:49.384335+00:00
+user_000023,"[""Beauty & Personal Care""]","[""SilkTouch""]",premium,low,false,2026-02-09T16:49:43.535887+00:00
+user_000024,"[""Toys & Games"", ""Grocery & Gourmet Food""]","[""FunCraft"", ""SpiceTrail""]",mid_range,low,false,2026-03-17T05:26:17.538050+00:00
+user_000025,"[""Clothing"", ""Sports & Outdoors"", ""Home & Kitchen""]","[""PureComfort"", ""AquaSport"", ""ModernSpace""]",mid_range,medium,false,2026-01-29T02:43:32.524966+00:00
+user_000026,"[""Beauty & Personal Care"", ""Books"", ""Toys & Games""]","[""RadianceCo"", ""ReadersGate"", ""PlayWorld""]",mid_range,high,false,2026-03-11T03:16:59.510750+00:00
+user_000027,"[""Sports & Outdoors""]","[""AquaSport""]",budget,high,false,2026-01-10T23:40:49.877969+00:00
+user_000028,"[""Beauty & Personal Care"", ""Home & Kitchen""]","[""PureBloom"", ""ChefElite""]",mid_range,medium,false,2026-02-21T03:48:27.097918+00:00
+user_000029,"[""Beauty & Personal Care""]","[""GlowLab""]",premium,low,false,2026-02-17T13:08:25.542560+00:00
+user_000030,"[""Books""]","[""ReadersGate""]",mid_range,low,false,2026-01-20T07:24:29.587152+00:00
+user_000031,"[""Books"", ""Sports & Outdoors"", ""Electronics""]","[""StoryWeave"", ""TrailMaster"", ""ApexVision""]",mid_range,medium,false,2026-02-11T14:42:49.639658+00:00
+user_000032,"[""Health & Household"", ""Books"", ""Toys & Games""]","[""CleanShield"", ""AtlasBooks"", ""PlayWorld""]",mid_range,high,false,2026-01-27T22:45:59.063543+00:00
+user_000033,"[""Clothing""]","[""NeonFit""]",premium,high,false,2026-02-27T15:31:50.569528+00:00
+user_000034,"[""Clothing"", ""Beauty & Personal Care"", ""Toys & Games""]","[""UrbanStitch"", ""PureBloom"", ""BrainBoost""]",mid_range,high,false,2026-03-05T06:10:05.753791+00:00
+user_000035,"[""Automotive""]","[""AutoGuard""]",budget,medium,false,2026-02-27T18:19:40.485137+00:00
+user_000036,"[""Health & Household"", ""Electronics"", ""Toys & Games""]","[""WellnessPlus"", ""ApexVision"", ""BrainBoost""]",mid_range,low,false,2026-01-02T18:53:20.581650+00:00
+user_000037,"[""Electronics"", ""Health & Household""]","[""QuantumTech"", ""EcoFresh""]",budget,high,false,2026-01-30T15:36:02.982354+00:00
+user_000038,"[""Toys & Games"", ""Home & Kitchen""]","[""FunCraft"", ""CozyNest""]",premium,medium,false,2026-02-27T10:09:32.771534+00:00
+user_000039,"[""Grocery & Gourmet Food""]","[""TasteHaven""]",budget,low,false,2026-01-26T16:02:52.151254+00:00
+user_000040,"[""Toys & Games""]","[""FunCraft""]",mid_range,high,false,2026-01-03T19:16:44.576102+00:00
+user_000041,"[""Clothing""]","[""PureComfort""]",premium,low,false,2026-01-31T17:34:41.332245+00:00
+user_000042,"[""Home & Kitchen"", ""Grocery & Gourmet Food""]","[""ModernSpace"", ""SpiceTrail""]",premium,medium,false,2026-02-20T22:20:29.834579+00:00
+user_000043,"[""Electronics""]","[""ApexVision""]",mid_range,low,false,2026-02-23T03:04:28.640974+00:00
+user_000044,"[""Beauty & Personal Care""]","[""RadianceCo""]",premium,medium,false,2026-03-15T16:30:53.647357+00:00
+user_000045,"[""Sports & Outdoors""]","[""FitGear Pro""]",premium,high,false,2026-02-09T22:46:51.524225+00:00
+user_000046,"[""Toys & Games"", ""Beauty & Personal Care""]","[""KidGenius"", ""SilkTouch""]",budget,medium,false,2026-01-23T21:05:07.648727+00:00
+user_000047,"[""Books""]","[""ReadersGate""]",mid_range,medium,false,2026-02-06T11:45:13.892564+00:00
+user_000048,"[""Beauty & Personal Care"", ""Grocery & Gourmet Food""]","[""SilkTouch"", ""PureBite""]",premium,high,false,2026-02-09T16:02:46.233409+00:00
+user_000049,"[""Books"", ""Health & Household""]","[""StoryWeave"", ""WellnessPlus""]",budget,medium,false,2026-01-29T16:46:37.058040+00:00
+user_000050,"[""Automotive"", ""Grocery & Gourmet Food"", ""Electronics""]","[""DriveSafe"", ""SpiceTrail"", ""NovaDigital""]",mid_range,high,false,2026-03-17T03:30:38.329134+00:00
+user_000051,"[""Sports & Outdoors"", ""Health & Household""]","[""TrailMaster"", ""VitaLife""]",mid_range,medium,false,2026-01-29T16:51:07.713428+00:00
+user_000052,"[""Health & Household""]","[""WellnessPlus""]",mid_range,low,false,2026-02-08T07:56:19.085738+00:00
+user_000053,"[""Beauty & Personal Care""]","[""NatureScent""]",premium,high,false,2026-03-02T20:42:59.647730+00:00
+user_000054,"[""Home & Kitchen"", ""Grocery & Gourmet Food""]","[""ModernSpace"", ""OrganicRoots""]",budget,high,false,2026-02-08T11:38:11.155900+00:00
+user_000055,"[""Home & Kitchen""]","[""ChefElite""]",mid_range,low,false,2026-03-09T05:59:51.469421+00:00
+user_000056,"[""Health & Household"", ""Beauty & Personal Care"", ""Electronics""]","[""CleanShield"", ""SilkTouch"", ""CoreWave""]",budget,high,false,2026-01-28T03:32:32.255153+00:00
+user_000057,"[""Grocery & Gourmet Food"", ""Electronics""]","[""PureBite"", ""NovaDigital""]",premium,low,false,2026-02-25T06:46:06.964660+00:00
+user_000058,"[""Toys & Games"", ""Grocery & Gourmet Food"", ""Health & Household""]","[""BrainBoost"", ""FarmFresh"", ""EcoFresh""]",budget,low,false,2026-02-26T21:49:25.514905+00:00
+user_000059,"[""Automotive"", ""Health & Household"", ""Grocery & Gourmet Food""]","[""AutoGuard"", ""WellnessPlus"", ""SpiceTrail""]",premium,low,false,2026-01-25T07:26:30.519442+00:00
+user_000060,"[""Health & Household""]","[""EcoFresh""]",mid_range,high,false,2026-01-12T03:27:10.743927+00:00
+user_000061,"[""Sports & Outdoors"", ""Electronics"", ""Books""]","[""AquaSport"", ""CoreWave"", ""BrightMinds""]",budget,low,false,2026-02-13T00:44:19.740591+00:00
+user_000062,"[""Electronics"", ""Sports & Outdoors"", ""Books""]","[""TechPro"", ""PeakAscent"", ""BrightMinds""]",budget,high,false,2026-03-12T04:16:07.574739+00:00
+user_000063,"[""Books""]","[""StoryWeave""]",mid_range,low,false,2026-01-21T20:21:43.112675+00:00
+user_000064,"[""Automotive"", ""Grocery & Gourmet Food""]","[""DriveSafe"", ""PureBite""]",mid_range,high,false,2026-02-12T13:32:11.258209+00:00
+user_000065,"[""Toys & Games"", ""Beauty & Personal Care"", ""Grocery & Gourmet Food""]","[""KidGenius"", ""GlowLab"", ""OrganicRoots""]",premium,high,false,2026-01-14T03:37:03.257684+00:00
+user_000066,"[""Books""]","[""BrightMinds""]",premium,high,false,2026-03-17T01:23:18.483457+00:00
+user_000067,"[""Sports & Outdoors"", ""Health & Household"", ""Books""]","[""PeakAscent"", ""VitaLife"", ""StoryWeave""]",premium,low,false,2026-01-20T15:30:14.442882+00:00
+user_000068,"[""Home & Kitchen""]","[""BrightHome""]",mid_range,high,false,2026-02-08T08:12:05.826571+00:00
+user_000069,"[""Health & Household"", ""Grocery & Gourmet Food"", ""Electronics""]","[""WellnessPlus"", ""SpiceTrail"", ""ApexVision""]",premium,low,false,2026-01-22T00:24:19.523850+00:00
+user_000070,"[""Beauty & Personal Care"", ""Grocery & Gourmet Food""]","[""RadianceCo"", ""OrganicRoots""]",mid_range,high,false,2026-02-02T04:21:02.968498+00:00
+user_000071,"[""Home & Kitchen"", ""Clothing""]","[""BrightHome"", ""TrailBlaze""]",budget,high,false,2026-03-16T09:19:30.915578+00:00
+user_000072,"[""Books"", ""Toys & Games""]","[""PenPoint Press"", ""FunCraft""]",budget,high,false,2026-02-11T00:11:43.045485+00:00
+user_000073,"[""Clothing"", ""Grocery & Gourmet Food"", ""Books""]","[""PureComfort"", ""PureBite"", ""StoryWeave""]",mid_range,low,false,2026-01-15T13:16:43.519120+00:00
+user_000074,"[""Grocery & Gourmet Food"", ""Clothing""]","[""PureBite"", ""TrailBlaze""]",premium,medium,false,2026-02-01T04:04:04.409166+00:00
+user_000075,"[""Home & Kitchen""]","[""HomeCraft""]",budget,high,false,2026-02-28T19:05:56.836716+00:00
+user_000076,"[""Automotive"", ""Electronics""]","[""DriveSafe"", ""NovaDigital""]",mid_range,medium,false,2026-01-30T13:16:44.074899+00:00
+user_000077,"[""Toys & Games""]","[""AdventureZone""]",premium,medium,false,2026-02-14T08:09:09.695405+00:00
+user_000078,"[""Books"", ""Clothing"", ""Toys & Games""]","[""BrightMinds"", ""NeonFit"", ""BrainBoost""]",premium,high,false,2026-01-13T07:36:25.379468+00:00
+user_000079,"[""Books"", ""Health & Household"", ""Home & Kitchen""]","[""AtlasBooks"", ""PureCare"", ""HomeCraft""]",premium,high,false,2026-01-25T12:15:27.626320+00:00
+user_000080,"[""Books"", ""Toys & Games"", ""Sports & Outdoors""]","[""PenPoint Press"", ""BrainBoost"", ""PeakAscent""]",mid_range,low,false,2026-02-23T06:45:58.322759+00:00
+user_000081,"[""Home & Kitchen"", ""Grocery & Gourmet Food""]","[""ChefElite"", ""TasteHaven""]",premium,medium,false,2026-02-04T21:37:56.530277+00:00
+user_000082,"[""Clothing"", ""Electronics"", ""Home & Kitchen""]","[""TrailBlaze"", ""QuantumTech"", ""CozyNest""]",mid_range,low,false,2026-01-17T16:30:22.217605+00:00
+user_000083,"[""Electronics"", ""Books""]","[""NovaDigital"", ""ReadersGate""]",premium,medium,false,2026-03-16T19:05:34.162120+00:00
+user_000084,"[""Clothing"", ""Automotive"", ""Home & Kitchen""]","[""UrbanStitch"", ""MechPro"", ""ChefElite""]",budget,high,false,2026-01-05T12:33:36.249293+00:00
+user_000085,"[""Toys & Games""]","[""FunCraft""]",budget,low,false,2026-03-15T05:04:04.241532+00:00
+user_000086,"[""Grocery & Gourmet Food"", ""Toys & Games""]","[""OrganicRoots"", ""PlayWorld""]",premium,high,false,2026-02-05T17:36:06.147881+00:00
+user_000087,"[""Electronics""]","[""QuantumTech""]",premium,medium,false,2026-02-11T09:25:40.362803+00:00
+user_000088,"[""Electronics"", ""Health & Household""]","[""CoreWave"", ""WellnessPlus""]",mid_range,high,false,2026-02-21T06:35:56.255856+00:00
+user_000089,"[""Grocery & Gourmet Food"", ""Health & Household"", ""Sports & Outdoors""]","[""PureBite"", ""WellnessPlus"", ""ZenYoga""]",budget,high,false,2026-01-08T05:47:16.176557+00:00
+user_000090,"[""Electronics"", ""Home & Kitchen"", ""Grocery & Gourmet Food""]","[""TechPro"", ""CozyNest"", ""SpiceTrail""]",budget,low,false,2026-02-18T16:46:52.671676+00:00
+user_000091,"[""Health & Household"", ""Home & Kitchen"", ""Clothing""]","[""CleanShield"", ""ModernSpace"", ""UrbanStitch""]",mid_range,high,false,2026-02-05T04:21:04.852398+00:00
+user_000092,"[""Books"", ""Clothing"", ""Toys & Games""]","[""PenPoint Press"", ""TrailBlaze"", ""KidGenius""]",premium,low,false,2026-03-02T11:05:26.920442+00:00
+user_000093,"[""Toys & Games"", ""Automotive"", ""Books""]","[""AdventureZone"", ""MechPro"", ""BrightMinds""]",premium,medium,false,2026-01-23T19:13:01.600676+00:00
+user_000094,"[""Health & Household"", ""Books"", ""Beauty & Personal Care""]","[""EcoFresh"", ""AtlasBooks"", ""NatureScent""]",premium,low,false,2026-02-14T05:55:39.050658+00:00
+user_000095,"[""Beauty & Personal Care"", ""Grocery & Gourmet Food"", ""Books""]","[""RadianceCo"", ""TasteHaven"", ""AtlasBooks""]",premium,high,false,2026-02-24T19:32:25.699497+00:00
+user_000096,"[""Electronics"", ""Grocery & Gourmet Food""]","[""NovaDigital"", ""FarmFresh""]",premium,high,false,2026-01-22T11:45:52.400485+00:00
+user_000097,"[""Sports & Outdoors"", ""Books""]","[""PeakAscent"", ""BrightMinds""]",budget,medium,false,2026-03-04T14:21:02.578540+00:00
+user_000098,"[""Sports & Outdoors"", ""Automotive"", ""Electronics""]","[""ZenYoga"", ""AutoGuard"", ""CoreWave""]",mid_range,high,false,2026-01-23T17:31:43.646856+00:00
+user_000099,"[""Beauty & Personal Care"", ""Home & Kitchen"", ""Clothing""]","[""PureBloom"", ""CozyNest"", ""UrbanStitch""]",budget,medium,false,2026-03-14T12:34:03.309161+00:00
+user_000100,"[""Health & Household""]","[""PureCare""]",budget,medium,false,2026-01-26T20:53:53.074718+00:00

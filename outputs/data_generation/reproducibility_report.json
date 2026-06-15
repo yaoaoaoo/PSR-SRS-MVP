@@ -1,0 +1,44 @@
+{
+  "seed": 20260614,
+  "config": "D:\\project\\PSR-SRS-MVP\\configs\\sample.json",
+  "first_run": "D:\\project\\PSR-SRS-MVP\\outputs\\tmp_nlyj0jm\\run_a",
+  "second_run": "D:\\project\\PSR-SRS-MVP\\outputs\\tmp_nlyj0jm\\run_b",
+  "files": {
+    "items.csv": {
+      "sha256_run_a": "d5068a93c9bde32a5aca12a37bf68adc1d4a147049e09e59e7895586da59c329",
+      "sha256_run_b": "d5068a93c9bde32a5aca12a37bf68adc1d4a147049e09e59e7895586da59c329",
+      "matched": true,
+      "lines_a": 501,
+      "lines_b": 501
+    },
+    "users.csv": {
+      "sha256_run_a": "2569d4eed8d98f85e3d7c5169eaed172699686bd9b9d147560ca2b33b238a147",
+      "sha256_run_b": "2569d4eed8d98f85e3d7c5169eaed172699686bd9b9d147560ca2b33b238a147",
+      "matched": true,
+      "lines_a": 101,
+      "lines_b": 101
+    },
+    "queries.csv": {
+      "sha256_run_a": "cd368caed880a0dfcd2f437f2c4a55532a2edacf4d09aedf07727ae59c3c356e",
+      "sha256_run_b": "cd368caed880a0dfcd2f437f2c4a55532a2edacf4d09aedf07727ae59c3c356e",
+      "matched": true,
+      "lines_a": 201,
+      "lines_b": 201
+    },
+    "events.csv": {
+      "sha256_run_a": "1ed4f332924bd4cf967206f85c0899725d7d919d50a4dcbf9b62da4fab02746d",
+      "sha256_run_b": "1ed4f332924bd4cf967206f85c0899725d7d919d50a4dcbf9b62da4fab02746d",
+      "matched": true,
+      "lines_a": 6377,
+      "lines_b": 6377
+    },
+    "qrels.csv": {
+      "sha256_run_a": "bf2042bf80381565016f35e5642220b72425ba5aa3d5455433e7b0bbc8b190b9",
+      "sha256_run_b": "bf2042bf80381565016f35e5642220b72425ba5aa3d5455433e7b0bbc8b190b9",
+      "matched": true,
+      "lines_a": 10077,
+      "lines_b": 10077
+    }
+  },
+  "overall_passed": true
+}

@@ -1,0 +1,111 @@
+{
+  "source_validation": {
+    "nbformat": 4,
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "issues": [],
+    "valid": true
+  },
+  "execution_validation": {
+    "source_notebook": "outputs\\notebook\\01_mvp_end_to_end.executed.ipynb",
+    "total_cells": 44,
+    "code_cells": 16,
+    "executed_code_cells": 16,
+    "markdown_cells": 28,
+    "unexecuted_cells": 0,
+    "error_cells": 0,
+    "error_details": [],
+    "execution_passed": true,
+    "kernel_name": "python3",
+    "execution_mode": "nbconvert",
+    "validation_timestamp": "2026-06-15T10:08:11.114971+00:00"
+  },
+  "metrics_validation": {
+    "checks": [
+      {
+        "metric": "BM25 NDCG@10",
+        "expected": 0.297994,
+        "actual": 0.297994,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "LSA NDCG@10",
+        "expected": 0.37332,
+        "actual": 0.37332,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "Linear NDCG@10",
+        "expected": 0.392327,
+        "actual": 0.392327,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "Pers qrels NDCG@10",
+        "expected": 0.396789,
+        "actual": 0.396789,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "improved",
+        "expected": 2,
+        "actual": 2,
+        "delta": 0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "unchanged",
+        "expected": 61,
+        "actual": 61,
+        "delta": 0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "worsened",
+        "expected": 1,
+        "actual": 1,
+        "delta": 0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "fallback_exact_match",
+        "expected": 1.0,
+        "actual": 1.0,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "request_coverage",
+        "expected": 0.138462,
+        "actual": 0.138462,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      },
+      {
+        "metric": "item_recall",
+        "expected": 0.119048,
+        "actual": 0.119048,
+        "delta": 0.0,
+        "tolerance": 1e-06,
+        "passed": true
+      }
+    ],
+    "all_passed": true
+  }
+}

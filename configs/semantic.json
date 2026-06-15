@@ -1,0 +1,13 @@
+{
+  "word_ngram_range": [1, 2],
+  "char_ngram_range": [3, 5],
+  "word_weight": 1.0,
+  "char_weight": 0.5,
+  "min_df": 1,
+  "max_df": 1.0,
+  "sublinear_tf": true,
+  "svd_components": 64,
+  "random_state": 20260614,
+  "top_k_values": [5, 10, 20],
+  "relevance_threshold": 1
+}

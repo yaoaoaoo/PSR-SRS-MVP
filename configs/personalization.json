@@ -1,0 +1,22 @@
+{
+  "train_ratio": 0.8,
+  "event_weights": {
+    "click": 1.0,
+    "favorite": 2.0,
+    "add_to_cart": 3.0,
+    "purchase": 5.0
+  },
+  "half_life_days": 30.0,
+  "retrieval_weight": 0.70,
+  "category_weight": 0.12,
+  "subcategory_weight": 0.06,
+  "brand_weight": 0.06,
+  "price_weight": 0.06,
+  "top_k_values": [5, 10, 20],
+  "behavior_relevance": {
+    "click": 1,
+    "favorite": 2,
+    "add_to_cart": 3,
+    "purchase": 4
+  }
+}

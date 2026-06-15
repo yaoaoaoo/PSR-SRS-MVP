@@ -1,0 +1,643 @@
+{
+  "quality_report": {
+    "total_checks": 66,
+    "passed_count": 66,
+    "error_count": 0,
+    "warning_count": 0,
+    "checks": [
+      {
+        "name": "items: file exists",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: file not empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: file exists",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: file not empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: file exists",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: file not empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: file exists",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: file not empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: file exists",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: file not empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: row count",
+        "level": "info",
+        "passed": true,
+        "actual": "500",
+        "expected": "500",
+        "message": ""
+      },
+      {
+        "name": "users: row count",
+        "level": "info",
+        "passed": true,
+        "actual": "100",
+        "expected": "100",
+        "message": ""
+      },
+      {
+        "name": "queries: row count",
+        "level": "info",
+        "passed": true,
+        "actual": "200",
+        "expected": "200",
+        "message": ""
+      },
+      {
+        "name": "events: row count",
+        "level": "info",
+        "passed": true,
+        "actual": "6376",
+        "expected": "any (>0)",
+        "message": ""
+      },
+      {
+        "name": "items: item_id unique",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: user_id unique",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: query_id unique",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: event_id unique",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: session_id unique",
+        "level": "info",
+        "passed": true,
+        "actual": "484",
+        "expected": "6376",
+        "message": ""
+      },
+      {
+        "name": "events: request_id unique",
+        "level": "info",
+        "passed": true,
+        "actual": "484",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "sessions: configured vs event-unique",
+        "level": "warning",
+        "passed": true,
+        "actual": "484",
+        "expected": "500",
+        "message": "16 configured sessions generated zero events (activity skip)"
+      },
+      {
+        "name": "events: user_id foreign key valid",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: item_id foreign key valid",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: query_id foreign key valid",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: query_id foreign key valid",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: item_id foreign key valid",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: (query_id,item_id) unique",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: event_type in valid set",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "qrels: relevance_grade in valid set",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: activity_level in valid set",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: price_preference in valid set",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: price in [0.01,1000000]",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: quality_score in [0.0,1.0]",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: popularity_score in [0.0,1.0]",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: position >= 1",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: click_duration_ms >= 0",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: add_to_cart_quantity >= 1",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: purchase_amount >= 0",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: created_at valid ISO-8601 with UTC",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: created_at valid ISO-8601 with UTC",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: created_at valid ISO-8601 with UTC",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: timestamp valid ISO-8601 with UTC",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: item_id non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "items: title non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: user_id non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: query_id non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "queries: query_text non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: event_id non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: event_type non-empty",
+        "level": "error",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: impression > click",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: click > favorite",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: click > add_to_cart",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: click > purchase",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: one request = one query",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "users: zero-event users",
+        "level": "info",
+        "passed": true,
+        "actual": "13",
+        "expected": "13",
+        "message": "Users without events: 13"
+      },
+      {
+        "name": "items: unused items",
+        "level": "info",
+        "passed": true,
+        "actual": "1",
+        "expected": "None",
+        "message": "Items never appearing in events: 1"
+      },
+      {
+        "name": "users: cold-start users exist",
+        "level": "info",
+        "passed": true,
+        "actual": "10",
+        "expected": "10",
+        "message": ""
+      },
+      {
+        "name": "items: cold-start items exist",
+        "level": "info",
+        "passed": true,
+        "actual": "50",
+        "expected": "50",
+        "message": ""
+      },
+      {
+        "name": "qrels: every query has judgments",
+        "level": "warning",
+        "passed": true,
+        "actual": "0",
+        "expected": "0",
+        "message": ""
+      },
+      {
+        "name": "qrels: each query has grade-2+ item",
+        "level": "warning",
+        "passed": true,
+        "actual": "None",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: impression count",
+        "level": "info",
+        "passed": true,
+        "actual": "5752",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: click count",
+        "level": "info",
+        "passed": true,
+        "actual": "529",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: favorite count",
+        "level": "info",
+        "passed": true,
+        "actual": "47",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: add_to_cart count",
+        "level": "info",
+        "passed": true,
+        "actual": "40",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "events: purchase count",
+        "level": "info",
+        "passed": true,
+        "actual": "8",
+        "expected": "None",
+        "message": ""
+      },
+      {
+        "name": "sessions: unique in events",
+        "level": "info",
+        "passed": true,
+        "actual": "484",
+        "expected": "None",
+        "message": ""
+      }
+    ]
+  },
+  "statistics": {
+    "user_count": 100,
+    "item_count": 500,
+    "query_count": 200,
+    "event_count": 6376,
+    "qrels_count": 10076,
+    "configured_sessions": 500,
+    "unique_sessions_in_events": 484,
+    "unique_requests_in_events": 484,
+    "multi_session_users": 65,
+    "single_session_users": 22,
+    "zero_session_users": 13,
+    "event_type_distribution": {
+      "impression": 5752,
+      "click": 529,
+      "add_to_cart": 40,
+      "purchase": 8,
+      "favorite": 47
+    },
+    "positive_event_count": 624
+  },
+  "manifest": {
+    "schema_version": "1.0.0",
+    "generator_version": "0.1.0",
+    "seed": 20260614,
+    "config_file": "",
+    "output_dir": "data\\sample",
+    "files": {
+      "items.csv": {
+        "rows": 500,
+        "columns": [
+          "item_id",
+          "title",
+          "description",
+          "category",
+          "subcategory",
+          "brand",
+          "price",
+          "quality_score",
+          "popularity_score",
+          "is_cold_start",
+          "created_at"
+        ],
+        "sha256": "d5068a93c9bde32a5aca12a37bf68adc1d4a147049e09e59e7895586da59c329",
+        "size_bytes": 107032
+      },
+      "users.csv": {
+        "rows": 100,
+        "columns": [
+          "user_id",
+          "preferred_categories",
+          "preferred_brands",
+          "price_preference",
+          "activity_level",
+          "is_cold_start",
+          "created_at"
+        ],
+        "sha256": "2569d4eed8d98f85e3d7c5169eaed172699686bd9b9d147560ca2b33b238a147",
+        "size_bytes": 14506
+      },
+      "queries.csv": {
+        "rows": 200,
+        "columns": [
+          "query_id",
+          "query_text",
+          "intended_category",
+          "semantic_intent",
+          "created_at"
+        ],
+        "sha256": "cd368caed880a0dfcd2f437f2c4a55532a2edacf4d09aedf07727ae59c3c356e",
+        "size_bytes": 27529
+      },
+      "events.csv": {
+        "rows": 6376,
+        "columns": [
+          "event_id",
+          "event_type",
+          "request_id",
+          "session_id",
+          "user_id",
+          "query_id",
+          "query_text",
+          "item_id",
+          "position",
+          "timestamp",
+          "click_duration_ms",
+          "add_to_cart_quantity",
+          "purchase_amount"
+        ],
+        "sha256": "1ed4f332924bd4cf967206f85c0899725d7d919d50a4dcbf9b62da4fab02746d",
+        "size_bytes": 954807
+      },
+      "qrels.csv": {
+        "rows": 10076,
+        "columns": [
+          "query_id",
+          "item_id",
+          "relevance_grade"
+        ],
+        "sha256": "bf2042bf80381565016f35e5642220b72425ba5aa3d5455433e7b0bbc8b190b9",
+        "size_bytes": 282162
+      }
+    },
+    "generated_at_utc": "2026-06-15T09:36:18.388612+00:00"
+  }
+}
